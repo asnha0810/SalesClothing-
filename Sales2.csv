@@ -1,0 +1,1654 @@
+Date,Order,Item Purchased,Sales,Review Rating,Shipping Type,Discount Applied,Promo Code Used
+2023-01-01,3164576526,Skirt,2,3.1,Express,Yes,Yes
+2023-01-02,3165351216,Shirt,2,3.1,Express,Yes,Yes
+2023-01-02,12-10986-29949,Blouse,4,3.1,Free Shipping,Yes,Yes
+2023-01-02,3166515488,Shirt,5,3.5,Next Day Air,Yes,Yes
+2023-01-02,3166572296-1,Shirt,2,2.7,Free Shipping,Yes,Yes
+2023-01-02,3157012815,Shirt,2,2.9,Standard,Yes,Yes
+2023-01-02,3165186926,Shirt,1,3.2,Free Shipping,Yes,Yes
+2023-01-02,05-10999-51755,Blouse,1,3.2,Free Shipping,Yes,Yes
+2023-01-02,3157538231,Shirt,5,2.6,Express,Yes,Yes
+2023-01-02,22-10988-51411,Blouse,1,4.8,2-Day Shipping,Yes,Yes
+2023-01-02,01-10929-99035RP,Blouse,1,4.1,Store Pickup,Yes,Yes
+2023-01-02,01-10995-61782,Blouse,3,4.9,Store Pickup,Yes,Yes
+2023-01-02,14-10914-10426RP,Blouse,1,4.5,Express,Yes,Yes
+2023-01-02,17-10991-49722,Blouse,3,4.7,Express,Yes,Yes
+2023-01-02,24-10997-51856,Blouse,5,4.7,Free Shipping,Yes,Yes
+2023-01-02,3157769235,Shirt,5,2.8,Store Pickup,Yes,Yes
+2023-01-02,3159296941,Shirt,4,4.1,Next Day Air,Yes,Yes
+2023-01-02,3166572296-2,Shirt,2,4.7,2-Day Shipping,Yes,Yes
+2023-01-02,17-10986-30426,Blouse,5,4.6,Free Shipping,Yes,Yes
+2023-01-02,3156796417,Shirt,4,3.3,Standard,Yes,Yes
+2023-01-02,01-10914-53853RP,Blouse,1,2.8,Express,Yes,Yes
+2023-01-02,14-10990-73674,Blouse,5,4.1,Store Pickup,Yes,Yes
+2023-01-02,3166278318,Shirt,2,3.2,Store Pickup,Yes,Yes
+2023-01-02,18-10985-48217,Blouse,5,4.4,Express,Yes,Yes
+2023-01-02,26-10974-13151,Blouse,3,2.9,Store Pickup,Yes,Yes
+2023-01-02,3158536807,Shirt,4,3.6,Express,Yes,Yes
+2023-01-02,3166228690,Shirt,5,3.6,Next Day Air,Yes,Yes
+2023-01-02,06-10889-03250RP,Blouse,3,5,Next Day Air,Yes,Yes
+2023-01-02,3165072224,Shirt,4,4.4,Free Shipping,Yes,Yes
+2023-01-02,3157980131,Shirt,3,4.1,Store Pickup,Yes,Yes
+2023-01-02,02-11000-35984,Blouse,2,4.7,Standard,Yes,Yes
+2023-01-02,20-10989-00813,Blouse,1,4.7,Store Pickup,Yes,Yes
+2023-01-02,3159209585,Shirt,5,4.9,Free Shipping,Yes,Yes
+2023-01-02,03-10994-08131,Blouse,3,3.3,Store Pickup,Yes,Yes
+2023-01-02,18-10984-87351,Dress,3,4.6,2-Day Shipping,Yes,Yes
+2023-01-02,3159942235-2,Shirt,1,4,2-Day Shipping,Yes,Yes
+2023-01-02,17-10989-70602,Blouse,5,4.6,Free Shipping,Yes,Yes
+2023-01-02,16-10988-02371,Blouse,5,2.8,Store Pickup,Yes,Yes
+2023-01-02,03-10996-16860,Blouse,4,3.7,2-Day Shipping,Yes,Yes
+2023-01-02,14-10994-31683,Blouse,5,4.2,Express,Yes,Yes
+2023-01-02,04-10993-16382,Blouse,4,4.6,Next Day Air,Yes,Yes
+2023-01-02,27-10978-69937,Blouse,5,4.5,Standard,Yes,Yes
+2023-01-02,01-11002-10708,Dress,4,4.1,Free Shipping,Yes,Yes
+2023-01-02,01-11001-47577,Blouse,3,3.7,Store Pickup,Yes,Yes
+2023-01-02,10-10920-69321RP,Blouse,2,4.6,Free Shipping,Yes,Yes
+2023-01-02,17-10986-44135,Blouse,5,2.9,2-Day Shipping,Yes,Yes
+2023-01-02,23-10899-04486RP,Blouse,4,2.9,Store Pickup,Yes,Yes
+2023-01-02,21-10990-19696,Blouse,5,4.5,Free Shipping,Yes,Yes
+2023-01-02,06-10991-91005,Blouse,3,2.7,Store Pickup,Yes,Yes
+2023-01-02,3158179889,Shirt,3,4.6,Next Day Air,Yes,Yes
+2023-01-02,3159942235-1,Shirt,4,3.7,Store Pickup,Yes,Yes
+2023-01-02,3157454907,Shirt,2,4.7,2-Day Shipping,Yes,Yes
+2023-01-02,14-10987-02425,Blouse,1,2.6,Free Shipping,Yes,Yes
+2023-01-02,16-10991-10565,Blouse,1,3.9,Next Day Air,Yes,Yes
+2023-01-02,26-10982-64885,Blouse,4,4.2,Next Day Air,Yes,Yes
+2023-01-02,22-10982-43713,Blouse,4,3,2-Day Shipping,Yes,Yes
+2023-01-02,09-10985-93817,Blouse,4,4.7,Store Pickup,Yes,Yes
+2023-01-02,01-11000-98587,Blouse,3,4.4,Store Pickup,Yes,Yes
+2023-01-02,23-10986-07286,Blouse,4,4.2,Free Shipping,Yes,Yes
+2023-01-02,02-11000-91340,Blouse,2,4.6,Standard,Yes,Yes
+2023-01-02,20-10986-92793,Blouse,2,4,Express,Yes,Yes
+2023-01-02,13-10986-30836,Blouse,5,4.7,Store Pickup,Yes,Yes
+2023-01-02,14-10995-74034,Dress,2,3.8,Free Shipping,Yes,Yes
+2023-01-02,576559853404786736,Skirt,5,2.7,2-Day Shipping,Yes,Yes
+2023-01-02,08-10992-57354,Blouse,3,4.8,Standard,Yes,Yes
+2023-01-02,07-10993-16052,Dress,4,4.8,2-Day Shipping,Yes,Yes
+2023-01-02,20-10984-84447,Blouse,4,4.7,2-Day Shipping,Yes,Yes
+2023-01-03,27-10976-72954,Blouse,1,4.4,Store Pickup,Yes,Yes
+2023-01-03,15-10999-38062,Blouse,2,3.9,Next Day Air,Yes,Yes
+2023-01-03,06-10993-31680,Blouse,2,4.4,Express,Yes,Yes
+2023-01-03,03-11006-41934,Blouse,2,4.2,Express,Yes,Yes
+2023-01-03,15-10984-01370,Dress,3,2.9,Express,Yes,Yes
+2023-01-03,15-10999-90297,Blouse,4,2.9,Store Pickup,Yes,Yes
+2023-01-03,04-10996-60745,Blouse,1,2.7,Free Shipping,Yes,Yes
+2023-01-03,25-10986-38675,Blouse,4,4.5,Express,Yes,Yes
+2023-01-03,06-11002-30450,Blouse,4,2.7,Free Shipping,Yes,Yes
+2023-01-03,22-10985-68871,Blouse,2,4.2,Free Shipping,Yes,Yes
+2023-01-03,07-10992-75235,Blouse,4,3.3,Next Day Air,Yes,Yes
+2023-01-03,05-10976-61928,Dress,3,4.7,Free Shipping,Yes,Yes
+2023-01-03,22-10985-79886,Blouse,5,2.6,2-Day Shipping,Yes,Yes
+2023-01-03,10-11004-29052,Blouse,1,3.3,Store Pickup,Yes,Yes
+2023-01-03,10-10986-99920,Blouse,3,2.6,Express,Yes,Yes
+2023-01-03,01-11005-75572,Blouse,1,4,2-Day Shipping,Yes,Yes
+2023-01-03,19-10997-12076,Blouse,4,4.1,Standard,Yes,Yes
+2023-01-03,21-10993-90888,Blouse,4,4.4,Standard,Yes,Yes
+2023-01-03,05-11003-58208,Blouse,4,4.5,Next Day Air,Yes,Yes
+2023-01-03,13-10996-11382,Blouse,3,3.7,2-Day Shipping,Yes,Yes
+2023-01-03,02-11008-09661,Blouse,1,3.7,2-Day Shipping,Yes,Yes
+2023-01-03,25-10991-76252,Blouse,5,3.5,Free Shipping,Yes,Yes
+2023-01-04,3161625409,Shirt,1,3.6,Next Day Air,Yes,Yes
+2023-01-04,20-11000-96137,Blouse,4,2.9,Express,Yes,Yes
+2023-01-04,16-11003-07917,Blouse,1,4.6,Standard,Yes,Yes
+2023-01-04,3168804766,Shirt,1,4.4,2-Day Shipping,Yes,Yes
+2023-01-04,3160823737,Shirt,4,4.5,Standard,Yes,Yes
+2023-01-04,3168414186,Shirt,5,4.6,Free Shipping,Yes,Yes
+2023-01-04,07-11008-23717,Blouse,3,3.8,Free Shipping,Yes,Yes
+2023-01-04,354301,Skirt,3,3.6,Express,Yes,Yes
+2023-01-04,11-11006-32356,Blouse,4,4.8,Store Pickup,Yes,Yes
+2023-01-04,26-10992-66699,Blouse,4,2.6,Next Day Air,Yes,Yes
+2023-01-04,3160808499,Shirt,3,3.7,Express,Yes,Yes
+2023-01-04,3169432490,Shirt,5,2.7,Express,Yes,Yes
+2023-01-04,24-11008-87653,Blouse,3,4.6,Express,Yes,Yes
+2023-01-04,3168312234,Shirt,1,4.8,Next Day Air,Yes,Yes
+2023-01-04,03-11013-09658,Blouse,1,4,Next Day Air,Yes,Yes
+2023-01-04,19-11001-25237,Dress,1,4.4,2-Day Shipping,Yes,Yes
+2023-01-04,24-11011-55467,Blouse,4,3.6,Next Day Air,Yes,Yes
+2023-01-04,11-11006-56941,Blouse,1,3.7,Standard,Yes,Yes
+2023-01-04,3169178312,Shirt,4,3.1,Next Day Air,Yes,Yes
+2023-01-04,12-11006-78328,Blouse,2,3.4,Next Day Air,Yes,Yes
+2023-01-04,19-10998-62586,Blouse,2,2.6,Next Day Air,Yes,Yes
+2023-01-04,01-11012-67719,Blouse,4,4,Standard,Yes,Yes
+2023-01-04,02-11005-50244,Blouse,1,5,Free Shipping,Yes,Yes
+2023-01-04,05-11012-17672,Blouse,4,4.3,Free Shipping,Yes,Yes
+2023-01-04,14-11004-34175,Blouse,5,3.1,Next Day Air,Yes,Yes
+2023-01-04,13-11006-02410,Blouse,5,3.7,Store Pickup,Yes,Yes
+2023-01-04,08-11003-04634,Blouse,2,3.8,Standard,Yes,Yes
+2023-01-04,3168142292,Shirt,3,3.4,Free Shipping,Yes,Yes
+2023-01-04,06-11005-09230,Blouse,5,4.6,Express,Yes,Yes
+2023-01-04,3169446502,Shirt,2,4.8,2-Day Shipping,Yes,Yes
+2023-01-04,3161880759,Shirt,2,4.3,Express,Yes,Yes
+2023-01-04,3161801675,Shirt,4,4,Express,Yes,Yes
+2023-01-04,3161695203,Shirt,5,4.2,Standard,Yes,Yes
+2023-01-04,02-11011-73328,Blouse,3,4.8,2-Day Shipping,Yes,Yes
+2023-01-04,07-11006-43641,Blouse,4,3.1,Free Shipping,Yes,Yes
+2023-01-04,19-11001-84993,Blouse,2,3.1,Next Day Air,Yes,Yes
+2023-01-04,08-11006-56550,Blouse,2,3.6,Next Day Air,Yes,Yes
+2023-01-04,21-10995-44264,Dress,2,3.9,Store Pickup,Yes,Yes
+2023-01-04,25-10997-51300,Blouse,1,4.8,Next Day Air,Yes,Yes
+2023-01-04,08-11006-83050,Blouse,5,4.7,Standard,Yes,Yes
+2023-01-04,27-10995-79150,Blouse,2,4.2,2-Day Shipping,Yes,Yes
+2023-01-04,15-11002-22538,Blouse,2,3.7,Next Day Air,Yes,Yes
+2023-01-04,12-11005-12820,Blouse,3,3.9,Standard,Yes,Yes
+2023-01-04,04-11012-37113,Blouse,1,4.7,2-Day Shipping,Yes,Yes
+2023-01-04,16-10998-51056,Blouse,4,2.5,Next Day Air,Yes,Yes
+2023-01-04,21-10991-98958,Dress,5,4.9,Store Pickup,Yes,Yes
+2023-01-04,12-11006-78327,Blouse,2,4.1,Express,Yes,Yes
+2023-01-04,04-11005-83365,Blouse,2,3.3,Free Shipping,Yes,Yes
+2023-01-04,25-10997-82322,Blouse,4,4.7,Free Shipping,Yes,Yes
+2023-01-05,09-10991-40473,Dress,2,4.4,Store Pickup,Yes,Yes
+2023-01-05,16-10981-77999,Dress,4,3.8,Store Pickup,Yes,Yes
+2023-01-05,19-11003-64244,Blouse,4,3.9,2-Day Shipping,Yes,Yes
+2023-01-05,22-10921-30827RP,Blouse,4,4.9,Free Shipping,Yes,Yes
+2023-01-05,02-11018-45016,Blouse,5,3.1,Free Shipping,Yes,Yes
+2023-01-05,3162664553,Shirt,1,2.7,Store Pickup,Yes,Yes
+2023-01-05,3170604028,Shirt,2,3.2,Express,Yes,Yes
+2023-01-05,26-10984-24166,Dress,5,4.5,Standard,Yes,Yes
+2023-01-05,3170772622,Shirt,1,4,Standard,Yes,Yes
+2023-01-05,19-11005-52490,Blouse,2,3.5,2-Day Shipping,Yes,Yes
+2023-01-05,3162681609,Shirt,2,2.6,Store Pickup,Yes,Yes
+2023-01-05,14-11005-31621,Blouse,5,3.2,Free Shipping,Yes,Yes
+2023-01-05,20-10989-70885,Dress,3,4.9,Standard,Yes,Yes
+2023-01-05,26-10843-61440,Dress,5,4.5,Next Day Air,Yes,Yes
+2023-01-05,3171264570,Shirt,2,4.3,Express,Yes,Yes
+2023-01-05,10-11011-48587,Blouse,1,3.2,Standard,Yes,Yes
+2023-01-05,10-10993-69313,Dress,1,3.6,Next Day Air,Yes,Yes
+2023-01-05,06-10997-83476,Dress,3,4.3,Free Shipping,Yes,Yes
+2023-01-05,3162543633,Shirt,3,4,Standard,Yes,Yes
+2023-01-05,3170986652,Shirt,3,3,Next Day Air,Yes,Yes
+2023-01-05,3162601843,Shirt,1,4.1,Standard,Yes,Yes
+2023-01-05,3170956456,Shirt,2,3.8,Store Pickup,Yes,Yes
+2023-01-05,3170554474,Shirt,4,4.6,Free Shipping,Yes,Yes
+2023-01-05,12-11009-18123,Dress,2,3,Express,Yes,Yes
+2023-01-05,23-10984-44994,Dress,4,3,Store Pickup,Yes,Yes
+2023-01-05,04-11014-29231,Blouse,3,3.4,Standard,Yes,Yes
+2023-01-05,08-11007-50669,Blouse,3,2.6,Free Shipping,Yes,Yes
+2023-01-05,21-11004-23717,Blouse,1,2.8,Store Pickup,Yes,Yes
+2023-01-05,01-11013-94738,Blouse,5,4,Store Pickup,Yes,Yes
+2023-01-05,17-10987-95014,Dress,1,4,Express,Yes,Yes
+2023-01-05,26-10997-06653,Blouse,1,3,Express,Yes,Yes
+2023-01-05,26-11000-96083,Blouse,3,3.3,Standard,Yes,Yes
+2023-01-05,23-11003-30248,Blouse,2,2.6,Store Pickup,Yes,Yes
+2023-01-05,17-10991-07297,Dress,2,3.6,Store Pickup,Yes,Yes
+2023-01-05,01-11016-38645,Blouse,3,3.9,Next Day Air,Yes,Yes
+2023-01-05,03-11014-91952,Blouse,1,3.4,Standard,Yes,Yes
+2023-01-05,16-11006-81463,Blouse,4,3.5,Express,Yes,Yes
+2023-01-05,27-10996-32234,Blouse,5,2.8,Next Day Air,Yes,Yes
+2023-01-05,05-11007-41900,Dress,1,2.7,Next Day Air,Yes,Yes
+2023-01-05,05-11012-46616,Blouse,2,3.7,Next Day Air,Yes,Yes
+2023-01-05,10-11010-72303,Dress,5,4.3,2-Day Shipping,Yes,Yes
+2023-01-05,14-11004-99869,Blouse,5,4.9,Store Pickup,Yes,Yes
+2023-01-05,24-11014-26734,Dress,4,3.3,Store Pickup,Yes,Yes
+2023-01-06,3171415928,Shirt,3,4.7,Next Day Air,Yes,Yes
+2023-01-06,3163479685,Shirt,5,2.8,Store Pickup,Yes,Yes
+2023-01-06,16-11007-99325,Blouse,4,3.6,2-Day Shipping,Yes,Yes
+2023-01-06,21-11004-60591,Blouse,1,3,Express,Yes,Yes
+2023-01-06,05-11020-35644,Blouse,2,4.5,Store Pickup,Yes,Yes
+2023-01-06,18-11003-58220,Blouse,5,2.9,Standard,Yes,Yes
+2023-01-06,01-11019-04413,Blouse,4,3.3,Store Pickup,Yes,Yes
+2023-01-06,3169577970,Skirt,3,3.1,Express,Yes,Yes
+2023-01-06,27-11003-87335,Blouse,1,4.4,Next Day Air,Yes,Yes
+2023-01-06,3171649576,Shirt,3,3,Free Shipping,Yes,Yes
+2023-01-06,3163298781,Shirt,3,3.9,Free Shipping,Yes,Yes
+2023-01-06,3163569123,Shirt,3,2.9,Express,Yes,Yes
+2023-01-06,02-11022-69634,Dress,1,3,Standard,Yes,Yes
+2023-01-06,26-10999-95334,Blouse,5,3.1,Express,Yes,Yes
+2023-01-06,01-11017-95245,Blouse,3,4.3,Free Shipping,Yes,Yes
+2023-01-06,04-11019-09996,Dress,2,3.9,Next Day Air,Yes,Yes
+2023-01-06,27-11004-46073,Blouse,2,3.2,2-Day Shipping,Yes,Yes
+2023-01-06,19-11006-36752,Blouse,4,4.8,Standard,Yes,Yes
+2023-01-06,08-11017-54865,Blouse,2,3.8,Express,Yes,Yes
+2023-01-06,14-11007-62393,Blouse,1,3.3,Next Day Air,Yes,Yes
+2023-01-06,03-11021-20490,Blouse,4,4.3,Free Shipping,Yes,Yes
+2023-01-06,20-11003-36365,Blouse,2,2.7,Express,Yes,Yes
+2023-01-06,23-11007-40151,Dress,3,3.2,Next Day Air,Yes,Yes
+2023-01-06,3171414714,Shirt,5,4,Store Pickup,Yes,Yes
+2023-01-06,3171649578,Shirt,4,3,Standard,Yes,Yes
+2023-01-06,19-11004-53134,Blouse,1,4.2,Free Shipping,Yes,Yes
+2023-01-06,07-11014-05440,Blouse,4,2.9,Express,Yes,Yes
+2023-01-06,06-11019-65577,Dress,1,4.1,Store Pickup,Yes,Yes
+2023-01-06,11-11009-32086,Blouse,3,3.2,Store Pickup,Yes,Yes
+2023-01-06,26-11003-17892,Dress,3,3,2-Day Shipping,Yes,Yes
+2023-01-06,18-11005-55398,Blouse,2,4.2,2-Day Shipping,Yes,Yes
+2023-01-08,3165638405,Shirt,5,4.2,Express,Yes,Yes
+2023-01-08,24-11023-29621,Blouse,5,4.4,Store Pickup,Yes,Yes
+2023-01-08,22-11008-36542,Blouse,5,4.2,Next Day Air,Yes,Yes
+2023-01-08,3165243315,Skirt,2,2.8,2-Day Shipping,Yes,Yes
+2023-01-08,18-11000-00582,Dress,3,3.7,Free Shipping,Yes,Yes
+2023-01-08,04-11028-62165,Blouse,5,3.5,Next Day Air,Yes,Yes
+2023-01-08,18-11017-51117,Blouse,2,2.9,Store Pickup,Yes,Yes
+2023-01-08,18-11008-93151,Blouse,2,3,Free Shipping,Yes,Yes
+2023-01-08,17-11019-03551,Blouse,3,3.7,Express,Yes,Yes
+2023-01-08,25-11008-47502,Blouse,2,4.4,Store Pickup,Yes,Yes
+2023-01-08,3172220140,Shirt,3,4.5,2-Day Shipping,Yes,Yes
+2023-01-08,02-11020-34557,Blouse,2,4.8,Free Shipping,Yes,Yes
+2023-01-08,10-11012-67463,Blouse,2,2.9,Free Shipping,Yes,Yes
+2023-01-08,11-11017-04788,Blouse,1,3.2,Next Day Air,Yes,Yes
+2023-01-08,10-11013-16088,Blouse,3,3.3,Free Shipping,Yes,Yes
+2023-01-08,11-11024-08974,Blouse,3,4.2,Standard,Yes,Yes
+2023-01-08,04-11022-40317,Blouse,1,2.9,Store Pickup,Yes,Yes
+2023-01-08,3165983847,Shirt,4,4.6,Next Day Air,Yes,Yes
+2023-01-08,3164219613,Shirt,1,4.1,Standard,Yes,Yes
+2023-01-08,11-11019-53073,Blouse,3,3.1,2-Day Shipping,Yes,Yes
+2023-01-08,3172588824,Shirt,3,4.2,Express,Yes,Yes
+2023-01-08,04-11029-37529,Blouse,1,4.5,Next Day Air,Yes,Yes
+2023-01-08,15-11018-22024,Blouse,3,3.7,Next Day Air,Yes,Yes
+2023-01-08,10-11017-68120,Blouse,4,3.7,Free Shipping,Yes,Yes
+2023-01-08,07-11026-13251,Blouse,4,3.4,Next Day Air,Yes,Yes
+2023-01-08,19-11015-39828,Blouse,3,3,Store Pickup,Yes,Yes
+2023-01-08,21-11012-53442,Blouse,5,4.2,Free Shipping,Yes,Yes
+2023-01-08,20-11005-04309,Dress,5,2.9,Express,Yes,Yes
+2023-01-08,02-11028-52147,Blouse,3,3.5,Free Shipping,Yes,Yes
+2023-01-08,10-11020-54657,Blouse,5,4.1,Free Shipping,Yes,Yes
+2023-01-08,27-11004-65606,Dress,1,4.3,Store Pickup,Yes,Yes
+2023-01-08,23-11010-96246,Blouse,3,2.8,2-Day Shipping,Yes,Yes
+2023-01-08,3172044848,Shirt,4,4.9,2-Day Shipping,Yes,Yes
+2023-01-08,06-11019-82623,Blouse,4,3.3,Next Day Air,Yes,Yes
+2023-01-08,10-11017-68121,Blouse,1,3.2,Express,Yes,Yes
+2023-01-08,03-11029-97571,Blouse,1,4.4,Standard,Yes,Yes
+2023-01-08,04-11027-47283,Dress,4,4.8,Express,Yes,Yes
+2023-01-08,14-11016-65613,Blouse,4,4.2,Standard,Yes,Yes
+2023-01-08,10-11018-66885,Blouse,1,4,Express,Yes,Yes
+2023-01-08,07-11020-98921,Blouse,3,2.5,Standard,Yes,Yes
+2023-01-08,25-11011-89791,Blouse,2,3.9,Free Shipping,Yes,Yes
+2023-01-08,23-11013-51885,Blouse,2,4.9,2-Day Shipping,Yes,Yes
+2023-01-08,03-11028-33483,Blouse,5,3.5,Store Pickup,Yes,Yes
+2023-01-08,25-11013-04824,Blouse,5,4.2,Free Shipping,Yes,Yes
+2023-01-08,11-11019-72416,Blouse,3,4.7,Express,Yes,Yes
+2023-01-08,3172123492,Shirt,1,4.5,Express,Yes,Yes
+2023-01-08,3163583145,Shirt,2,2.8,Express,Yes,Yes
+2023-01-08,13-11016-49823,Blouse,5,2.9,Standard,Yes,Yes
+2023-01-08,21-11011-97717,Blouse,3,3.2,2-Day Shipping,Yes,Yes
+2023-01-08,04-11018-68921,Blouse,2,4.9,Standard,Yes,Yes
+2023-01-08,3164259995,Shirt,2,3.7,Next Day Air,Yes,Yes
+2023-01-08,02-11023-95771,Blouse,1,4.3,Store Pickup,Yes,Yes
+2023-01-08,3171993888,Shirt,1,3.9,Store Pickup,Yes,Yes
+2023-01-08,12-11017-32876,Blouse,3,3.2,2-Day Shipping,Yes,Yes
+2023-01-08,09-11017-52662,Blouse,5,3.1,Express,Yes,Yes
+2023-01-08,3164064533,Shirt,2,3.9,2-Day Shipping,Yes,Yes
+2023-01-08,11-11014-19048,Blouse,2,2.6,Store Pickup,Yes,Yes
+2023-01-08,02-11023-70597,Blouse,5,3.3,Next Day Air,Yes,Yes
+2023-01-08,22-11009-00396,Blouse,4,4.6,Free Shipping,Yes,Yes
+2023-01-08,3165842439,Shirt,2,4.6,Express,Yes,Yes
+2023-01-08,20-11009-73886,Blouse,2,4.4,2-Day Shipping,Yes,Yes
+2023-01-08,08-11023-91980,Blouse,3,4.2,Express,Yes,Yes
+2023-01-08,05-11019-42770,Dress,4,3,Express,Yes,Yes
+2023-01-08,14-11020-61643,Blouse,1,4,Express,Yes,Yes
+2023-01-08,10-11013-01848,Blouse,1,3.5,Express,Yes,Yes
+2023-01-08,14-11014-24970,Blouse,4,3,Store Pickup,Yes,Yes
+2023-01-08,3164040979,Shirt,2,3.7,Express,Yes,Yes
+2023-01-08,18-11018-53630,Blouse,5,4,Standard,Yes,Yes
+2023-01-08,08-11021-85216,Blouse,2,4.2,2-Day Shipping,Yes,Yes
+2023-01-08,10-11013-01849,Blouse,3,2.5,Standard,Yes,Yes
+2023-01-08,15-11021-15800,Blouse,5,3,2-Day Shipping,Yes,Yes
+2023-01-08,3164694545,Shirt,4,3.2,Next Day Air,Yes,Yes
+2023-01-08,16-11012-64180,Dress,5,3.5,Standard,Yes,Yes
+2023-01-08,11-11020-27508,Blouse,3,4.8,Express,Yes,Yes
+2023-01-08,10-11017-68119,Blouse,2,2.6,Store Pickup,Yes,Yes
+2023-01-08,22-11004-29510,Blouse,2,3.4,2-Day Shipping,Yes,Yes
+2023-01-08,26-11013-39322,Blouse,5,3.7,2-Day Shipping,Yes,Yes
+2023-01-08,05-11020-56766,Blouse,3,4.5,2-Day Shipping,Yes,Yes
+2023-01-08,06-11025-35161,Blouse,2,3.7,Standard,Yes,Yes
+2023-01-08,17-11015-78975,Blouse,4,3.3,Next Day Air,Yes,Yes
+2023-01-08,13-11016-32496,Blouse,3,4.7,Free Shipping,Yes,Yes
+2023-01-08,27-11006-45992,Blouse,5,2.7,Express,Yes,Yes
+2023-01-08,3163670671,Shirt,1,4.6,Store Pickup,Yes,Yes
+2023-01-08,3171863532,Shirt,3,2.7,Store Pickup,Yes,Yes
+2023-01-08,10-11024-09500,Blouse,5,4.8,2-Day Shipping,Yes,Yes
+2023-01-08,21-11006-88682,Blouse,1,4.4,Standard,Yes,Yes
+2023-01-08,02-11022-38247,Blouse,1,4,Standard,Yes,Yes
+2023-01-08,18-11006-30317,Dress,2,3.2,Next Day Air,Yes,Yes
+2023-01-08,26-11013-61796,Blouse,2,4.4,Store Pickup,Yes,Yes
+2023-01-08,16-11019-99021,Blouse,4,3.8,Standard,Yes,Yes
+2023-01-08,05-11014-86751,Blouse,5,3.6,Express,Yes,Yes
+2023-01-08,13-11014-47557,Blouse,4,3.3,Next Day Air,Yes,Yes
+2023-01-08,04-11022-94471,Blouse,3,3.4,Next Day Air,Yes,Yes
+2023-01-08,11-11016-18679,Blouse,5,3.5,2-Day Shipping,Yes,Yes
+2023-01-08,26-11001-44270,Blouse,4,3.6,Express,Yes,Yes
+2023-01-08,22-11008-09005,Blouse,1,3.2,Free Shipping,Yes,Yes
+2023-01-08,11-11017-45010,Blouse,2,3.7,Standard,Yes,Yes
+2023-01-08,01-11020-04524,Blouse,1,4.5,Standard,Yes,Yes
+2023-01-08,02-11020-57400,Blouse,2,4.6,Standard,Yes,Yes
+2023-01-09,3175504714,Shirt,3,4.1,Store Pickup,Yes,Yes
+2023-01-09,3166794417,Shirt,1,3.4,Next Day Air,Yes,Yes
+2023-01-09,18-11019-58538,Dress,4,3.7,Express,Yes,Yes
+2023-01-09,10-11028-05774,Blouse,3,3.3,Store Pickup,Yes,Yes
+2023-01-09,20-11022-39868,Blouse,5,4.5,Express,Yes,Yes
+2023-01-09,13-11025-04995,Blouse,2,3.3,Free Shipping,Yes,Yes
+2023-01-09,22-11018-44093,Blouse,3,4.3,Standard,Yes,Yes
+2023-01-09,3175063594,Shirt,1,2.5,Standard,Yes,Yes
+2023-01-09,3174751476,Shirt,2,2.6,Standard,Yes,Yes
+2023-01-09,12-11020-96285,Blouse,2,4.9,Standard,Yes,Yes
+2023-01-09,01-11033-91607,Blouse,2,4.7,Free Shipping,Yes,Yes
+2023-01-09,19-11021-33626,Blouse,1,3,Standard,Yes,Yes
+2023-01-09,3166350705,Shirt,4,3.5,Next Day Air,Yes,Yes
+2023-01-09,02-11028-71087,Blouse,2,4.8,Standard,Yes,Yes
+2023-01-09,16-11024-98906,Blouse,3,4.3,Free Shipping,Yes,Yes
+2023-01-09,3166611363,Shirt,2,3.2,Store Pickup,Yes,Yes
+2023-01-09,20-11019-66172,Blouse,5,3.1,Free Shipping,Yes,Yes
+2023-01-09,05-11033-25783,Blouse,2,2.8,Free Shipping,Yes,Yes
+2023-01-09,18-11017-41491,Dress,2,2.9,2-Day Shipping,Yes,Yes
+2023-01-09,25-11009-95031,Blouse,5,3.7,Express,Yes,Yes
+2023-01-09,27-11015-05773,Blouse,1,3.3,Store Pickup,Yes,Yes
+2023-01-09,25-11017-83545,Blouse,2,2.8,2-Day Shipping,Yes,Yes
+2023-01-09,19-11022-76142,Blouse,4,4.5,Standard,Yes,Yes
+2023-01-09,3166433363,Shirt,3,2.6,Next Day Air,Yes,Yes
+2023-01-09,20-11022-10962,Blouse,1,3.7,Standard,Yes,Yes
+2023-01-09,05-11024-09423,Blouse,3,4.4,Express,Yes,Yes
+2023-01-09,27-11016-04605,Blouse,1,4.3,2-Day Shipping,Yes,Yes
+2023-01-09,10-11018-07804,Blouse,4,3.5,Express,Yes,Yes
+2023-01-09,11-11027-52002,Blouse,5,3.8,2-Day Shipping,Yes,Yes
+2023-01-09,3175136792,Shirt,3,3.5,Express,Yes,Yes
+2023-01-09,3166734945,Shirt,1,4.6,Store Pickup,Yes,Yes
+2023-01-09,14-11025-87417,Blouse,3,2.6,Next Day Air,Yes,Yes
+2023-01-09,3175266828,Shirt,1,4.4,Next Day Air,Yes,Yes
+2023-01-09,3166765609,Shirt,5,4,Standard,Yes,Yes
+2023-01-09,25-11009-19520,Blouse,5,4.4,Next Day Air,Yes,Yes
+2023-01-09,3166658223,Shirt,1,4.7,Next Day Air,Yes,Yes
+2023-01-09,3166765249,Shirt,2,3.9,Store Pickup,Yes,Yes
+2023-01-09,3175475016,Shirt,3,2.7,Free Shipping,Yes,Yes
+2023-01-09,24-11031-26343,Blouse,5,3.7,2-Day Shipping,Yes,Yes
+2023-01-09,09-11020-92040,Blouse,1,2.6,2-Day Shipping,Yes,Yes
+2023-01-09,02-11023-20657,Blouse,5,3.9,Standard,Yes,Yes
+2023-01-09,19-11022-51119,Blouse,2,4.9,Next Day Air,Yes,Yes
+2023-01-09,01-11035-59383,Blouse,1,4.1,Store Pickup,Yes,Yes
+2023-01-10,13-11026-80059,Dress,1,3,Free Shipping,Yes,Yes
+2023-01-10,19-11026-86167,Blouse,2,4.1,2-Day Shipping,Yes,Yes
+2023-01-10,11-11026-26826,Dress,3,3.8,Standard,Yes,Yes
+2023-01-10,3176393596,Shirt,3,4,Standard,Yes,Yes
+2023-01-10,3175929230,Shirt,1,3.6,Express,Yes,Yes
+2023-01-10,04-11035-88162,Blouse,5,3,Store Pickup,Yes,Yes
+2023-01-10,09-11030-19572,Blouse,3,3,Standard,Yes,Yes
+2023-01-10,3175999102,Shirt,5,2.6,Free Shipping,Yes,Yes
+2023-01-10,24-11034-40241,Blouse,2,3.4,Free Shipping,Yes,Yes
+2023-01-10,3176305120,Shirt,5,3.1,Free Shipping,Yes,Yes
+2023-01-10,10-11029-80846,Blouse,3,3,Free Shipping,Yes,Yes
+2023-01-10,04-11031-32568,Dress,3,3.7,Standard,Yes,Yes
+2023-01-10,12-11025-96958,Blouse,3,3.5,Store Pickup,Yes,Yes
+2023-01-10,3175955192,Shirt,2,2.8,Store Pickup,Yes,Yes
+2023-01-10,3164823101,Skirt,4,4.5,Standard,Yes,Yes
+2023-01-10,16-11027-12242,Blouse,5,3.3,Store Pickup,Yes,Yes
+2023-01-10,3176208852,Shirt,4,3.4,Express,Yes,Yes
+2023-01-10,3167625913,Shirt,3,3.2,2-Day Shipping,Yes,Yes
+2023-01-10,05-11037-51846,Blouse,5,3.7,Standard,Yes,Yes
+2023-01-10,3167410841,Shirt,4,4.6,Express,Yes,Yes
+2023-01-10,13-11031-96212,Blouse,3,5,Store Pickup,Yes,Yes
+2023-01-10,23-11021-99459,Blouse,5,4.4,Standard,Yes,Yes
+2023-01-10,27-11019-46614,Blouse,5,4.9,Express,Yes,Yes
+2023-01-10,06-11034-18170,Blouse,1,4.1,Standard,Yes,Yes
+2023-01-10,19-11025-82022,Blouse,4,4.9,Next Day Air,Yes,Yes
+2023-01-10,23-11003-62063,Blouse,5,4.7,2-Day Shipping,Yes,Yes
+2023-01-10,114-4348031-8927452,Skirt,4,3,Store Pickup,Yes,Yes
+2023-01-10,21-11020-83750,Blouse,5,3.4,Store Pickup,Yes,Yes
+2023-01-10,01-11039-04968,Blouse,1,3.2,Store Pickup,Yes,Yes
+2023-01-10,20-11024-00593,Blouse,5,2.9,Standard,Yes,Yes
+2023-01-10,3175673482,Shirt,1,4.5,2-Day Shipping,Yes,Yes
+2023-01-10,3176423450,Shirt,5,2.7,Next Day Air,Yes,Yes
+2023-01-10,3176128624,Shirt,4,3.4,Express,Yes,Yes
+2023-01-10,17-11027-65290,Blouse,3,4.6,Store Pickup,Yes,Yes
+2023-01-10,01-11037-58151,Blouse,1,2.7,Store Pickup,Yes,Yes
+2023-01-10,04-11031-73949,Dress,4,4.2,Standard,Yes,Yes
+2023-01-10,3175372814,Skirt,4,3.2,2-Day Shipping,Yes,Yes
+2023-01-11,04-11039-49349,Blouse,3,4.8,Standard,Yes,Yes
+2023-01-11,15-11029-63381,Blouse,2,3.3,Next Day Air,Yes,Yes
+2023-01-11,26-11024-09604,Blouse,2,4.2,Standard,Yes,Yes
+2023-01-11,10-11037-15260,Blouse,4,4.8,Store Pickup,Yes,Yes
+2023-01-11,23-11022-06782,Blouse,2,4.9,Store Pickup,Yes,Yes
+2023-01-11,19-11029-02199,Blouse,5,3.9,Standard,Yes,Yes
+2023-01-11,26-11024-66081,Blouse,5,3,Free Shipping,Yes,Yes
+2023-01-11,3168533987,Shirt,3,4.6,Free Shipping,Yes,Yes
+2023-01-11,3168267551,Shirt,4,3.5,2-Day Shipping,Yes,Yes
+2023-01-11,17-11032-83171,Blouse,4,4.8,Free Shipping,Yes,Yes
+2023-01-11,26-11024-09605,Blouse,1,4.8,Standard,Yes,Yes
+2023-01-11,25-11024-31328,Blouse,4,3,Express,Yes,Yes
+2023-01-11,07-11038-69582,Blouse,4,4.5,Next Day Air,Yes,Yes
+2023-01-11,09-11036-64650,Blouse,2,4.8,Store Pickup,Yes,Yes
+2023-01-11,15-11033-44441,Blouse,3,3.8,Standard,Yes,Yes
+2023-01-11,3177174390,Shirt,2,4.6,Express,Yes,Yes
+2023-01-11,10-11033-98966,Blouse,3,3.1,Next Day Air,Yes,Yes
+2023-01-11,03-11041-86255,Blouse,5,3.4,Express,Yes,Yes
+2023-01-11,03-11041-86254,Blouse,3,3.3,2-Day Shipping,Yes,Yes
+2023-01-11,22-11027-89434,Blouse,3,4.8,2-Day Shipping,Yes,Yes
+2023-01-11,22-11027-43276,Blouse,3,2.8,Express,Yes,Yes
+2023-01-11,04-11042-17470,Blouse,1,3.1,Store Pickup,Yes,Yes
+2023-01-11,05-11037-09654,Blouse,1,4.6,Free Shipping,Yes,Yes
+2023-01-11,26-11024-56982,Blouse,3,2.6,Store Pickup,Yes,Yes
+2023-01-11,16-11030-76542,Blouse,2,2.6,Express,Yes,Yes
+2023-01-11,17-11033-31793,Blouse,2,3.8,Free Shipping,Yes,Yes
+2023-01-11,3176927080,Shirt,4,4.5,Free Shipping,Yes,Yes
+2023-01-11,09-11030-70060,Blouse,4,3,Standard,Yes,Yes
+2023-01-11,11-11033-97585,Blouse,4,3.5,Free Shipping,Yes,Yes
+2023-01-11,10-11035-40815,Blouse,2,3.8,Free Shipping,Yes,Yes
+2023-01-11,02-11043-88548,Dress,2,3.5,Standard,Yes,Yes
+2023-01-11,12-11033-83762,Blouse,3,3.1,Store Pickup,Yes,Yes
+2023-01-11,05-11028-59295,Dress,3,3,Store Pickup,Yes,Yes
+2023-01-11,3168742453,Shirt,1,4.3,Standard,Yes,Yes
+2023-01-11,18-11030-78276,Blouse,4,3.3,Store Pickup,Yes,Yes
+2023-01-11,26-11019-19673,Blouse,3,4.7,Express,Yes,Yes
+2023-01-11,22-11029-22223,Blouse,1,4.5,Store Pickup,Yes,Yes
+2023-01-11,25-11024-84215,Blouse,3,2.9,Free Shipping,Yes,Yes
+2023-01-11,24-11040-59834,Blouse,2,4.1,2-Day Shipping,Yes,Yes
+2023-01-11,25-11026-65591,Blouse,3,3.5,Store Pickup,Yes,Yes
+2023-01-11,20-11030-70947,Blouse,4,3.4,Store Pickup,Yes,Yes
+2023-01-11,3168497689,Shirt,1,3.3,Free Shipping,Yes,Yes
+2023-01-11,02-11043-60240,Blouse,2,3.2,Store Pickup,Yes,Yes
+2023-01-11,15-11032-86772,Blouse,2,4,Store Pickup,Yes,Yes
+2023-01-12,3178203072,Shirt,5,3.6,Next Day Air,Yes,Yes
+2023-01-12,14-11039-41363,Blouse,3,4.6,Free Shipping,Yes,Yes
+2023-01-12,12-11040-73994,Blouse,3,2.6,Next Day Air,Yes,Yes
+2023-01-12,08-11036-03124,Blouse,4,4.3,Express,Yes,Yes
+2023-01-12,19-11035-51087,Blouse,3,3.4,Free Shipping,Yes,Yes
+2023-01-12,11-11036-90479,Blouse,4,3.5,Store Pickup,Yes,Yes
+2023-01-12,3169885989,Dress,1,4.2,Standard,Yes,Yes
+2023-01-12,26-11025-64381,Blouse,3,3.5,Store Pickup,Yes,Yes
+2023-01-12,12-11036-92915,Blouse,3,3.6,Free Shipping,Yes,Yes
+2023-01-12,3170032771,Shirt,5,4.3,Store Pickup,Yes,Yes
+2023-01-12,3169938039,Shirt,1,4.9,Standard,Yes,Yes
+2023-01-12,114-2957555-4121015,Skirt,3,4.1,Store Pickup,Yes,Yes
+2023-01-12,3177688736,Shirt,2,3.6,Standard,Yes,Yes
+2023-01-12,3164154436-resend,Shirt,4,3.4,Next Day Air,Yes,Yes
+2023-01-12,3169972541,Shirt,3,2.9,2-Day Shipping,Yes,Yes
+2023-01-12,12-11034-94243,Blouse,2,2.7,Store Pickup,Yes,Yes
+2023-01-12,3177207258,Skirt,5,4.3,Express,Yes,Yes
+2023-01-13,17-11039-52872,Dress,3,3.3,Express,Yes,Yes
+2023-01-13,18-11036-45546,Blouse,5,2.8,Next Day Air,Yes,Yes
+2023-01-13,09-11044-64466,Blouse,4,3.2,Next Day Air,Yes,Yes
+2023-01-13,3179172694,Shirt,1,3.6,Store Pickup,Yes,Yes
+2023-01-13,18-11040-13830,Blouse,2,4,2-Day Shipping,Yes,Yes
+2023-01-13,18-11035-75794,Blouse,5,4.9,Next Day Air,Yes,Yes
+2023-01-13,01-11050-18270,Blouse,3,4,2-Day Shipping,Yes,Yes
+2023-01-13,26-11032-52299,Blouse,1,3.8,Standard,Yes,Yes
+2023-01-13,25-11033-99639,Blouse,3,3.7,Store Pickup,Yes,Yes
+2023-01-13,06-11045-33960,Blouse,4,3.9,Express,Yes,Yes
+2023-01-13,03-11046-06658,Blouse,2,3.3,Express,Yes,Yes
+2023-01-13,09-11040-05949,Blouse,4,2.7,Standard,Yes,Yes
+2023-01-13,15-11042-20059,Blouse,2,4.7,Next Day Air,Yes,Yes
+2023-01-13,24-11043-78790,Blouse,5,2.8,Next Day Air,Yes,Yes
+2023-01-13,27-11031-77088,Blouse,4,4.6,Free Shipping,Yes,Yes
+2023-01-13,3178983082,Shirt,5,4.5,2-Day Shipping,Yes,Yes
+2023-01-13,07-11045-80910,Blouse,1,5,Free Shipping,Yes,Yes
+2023-01-13,3170857377,Shirt,2,4.1,2-Day Shipping,Yes,Yes
+2023-01-13,21-11035-13942,Blouse,5,4.6,Express,Yes,Yes
+2023-01-13,20-11038-33819,Blouse,5,4.9,2-Day Shipping,Yes,Yes
+2023-01-13,19-11034-03256,Blouse,5,3.9,Free Shipping,Yes,Yes
+2023-01-13,13-11039-68954,Blouse,4,3.9,Store Pickup,Yes,Yes
+2023-01-13,19-11033-69668,Blouse,1,2.6,2-Day Shipping,Yes,Yes
+2023-01-13,13-11043-89198,Blouse,4,2.7,Free Shipping,Yes,Yes
+2023-01-13,22-11030-00543,Blouse,5,3.5,Free Shipping,Yes,Yes
+2023-01-13,14-11039-41362,Blouse,4,3.7,Free Shipping,Yes,Yes
+2023-01-13,18-11033-14445,Blouse,3,3.2,Free Shipping,Yes,Yes
+2023-01-13,24-11047-98615,Blouse,5,3.3,Store Pickup,Yes,Yes
+2023-01-13,09-11040-00396,Blouse,2,4.8,Standard,Yes,Yes
+2023-01-13,27-11031-97184,Dress,1,3.2,2-Day Shipping,Yes,Yes
+2023-01-13,07-11044-73602,Blouse,3,2.5,2-Day Shipping,Yes,Yes
+2023-01-13,16-11040-07649,Blouse,4,3.9,Store Pickup,Yes,Yes
+2023-01-13,02-11048-25800,Blouse,5,4.7,Free Shipping,Yes,Yes
+2023-01-13,3179465058,Shirt,4,2.6,Next Day Air,Yes,Yes
+2023-01-13,3178775004,Shirt,1,2.8,Store Pickup,Yes,Yes
+2023-01-13,02-11049-68717,Blouse,5,4.4,Store Pickup,Yes,Yes
+2023-01-13,20-11036-99546,Blouse,4,4.6,Standard,Yes,Yes
+2023-01-14,576568916591808512,Skirt,5,3.2,Standard,Yes,Yes
+2023-01-14,576569005045092432,Skirt,2,4.2,2-Day Shipping,Yes,Yes
+2023-01-15,26-11035-82042,Blouse,2,3.7,2-Day Shipping,Yes,Yes
+2023-01-15,04-11045-41250,Blouse,4,3.9,Standard,Yes,Yes
+2023-01-15,thong42,Skirt,3,4.7,Store Pickup,Yes,Yes
+2023-01-15,12-11040-94781,Blouse,3,4.5,Express,Yes,Yes
+2023-01-15,3180960094,Shirt,4,3.3,Free Shipping,Yes,Yes
+2023-01-15,02-11047-71715,Blouse,3,3.3,Express,Yes,Yes
+2023-01-15,23-11042-20203,Blouse,3,4.6,Free Shipping,Yes,Yes
+2023-01-15,27-11036-49807,Blouse,1,3.6,Free Shipping,Yes,Yes
+2023-01-15,21-11039-81840,Blouse,2,4.8,Express,Yes,Yes
+2023-01-15,3171555921,Shirt,4,4.8,Next Day Air,Yes,Yes
+2023-01-15,10-11053-75051,Blouse,5,2.9,Next Day Air,Yes,Yes
+2023-01-15,05-11054-00157,Blouse,2,2.8,Express,Yes,Yes
+2023-01-15,3171983553,Shirt,2,3.2,Next Day Air,Yes,Yes
+2023-01-15,3173062987,Shirt,4,3.9,Free Shipping,Yes,Yes
+2023-01-15,16-11044-91313,Blouse,2,4.3,Express,Yes,Yes
+2023-01-15,26-11042-49871,Blouse,2,2.7,2-Day Shipping,Yes,Yes
+2023-01-15,08-11050-39286,Blouse,5,5,Store Pickup,Yes,Yes
+2023-01-15,3179758880,Shirt,4,3.7,Store Pickup,Yes,Yes
+2023-01-15,26-11033-44137,Blouse,5,3.9,Free Shipping,Yes,Yes
+2023-01-15,18-11047-15091,Blouse,3,3.9,2-Day Shipping,Yes,Yes
+2023-01-15,12-11050-47384,Blouse,3,3.1,Free Shipping,Yes,Yes
+2023-01-15,13-11045-01434,Blouse,2,3.3,Next Day Air,Yes,Yes
+2023-01-15,02-11054-36296,Blouse,3,3.6,Store Pickup,Yes,Yes
+2023-01-15,11-11049-06700,Blouse,2,4.3,Standard,Yes,Yes
+2023-01-15,02-11046-50413,Blouse,4,4.5,Next Day Air,Yes,Yes
+2023-01-15,15-11036-33779,Blouse,2,2.8,2-Day Shipping,Yes,Yes
+2023-01-15,3172342361,Shirt,5,2.7,Free Shipping,Yes,Yes
+2023-01-15,21-11037-93870,Blouse,4,2.9,Next Day Air,Yes,Yes
+2023-01-15,26-11036-33043,Blouse,5,4.4,2-Day Shipping,Yes,Yes
+2023-01-15,24-11054-41367,Blouse,1,3.9,Free Shipping,Yes,Yes
+2023-01-15,19-11040-92861,Blouse,3,3.5,Standard,Yes,Yes
+2023-01-15,02-11060-13137,Blouse,4,2.5,Store Pickup,Yes,Yes
+2023-01-15,12-11039-82600,Blouse,5,4.9,Express,Yes,Yes
+2023-01-15,TT-006-576569509287202829,Skirt,2,4.8,Free Shipping,Yes,Yes
+2023-01-15,02-11058-09087,Dress,3,3.2,Next Day Air,Yes,Yes
+2023-01-15,15-11049-22756,Blouse,2,4.9,Standard,Yes,Yes
+2023-01-15,13-11052-26037,Blouse,5,4.3,Next Day Air,Yes,Yes
+2023-01-15,25-11036-72544,Blouse,2,3.2,Express,Yes,Yes
+2023-01-15,07-11052-22805,Blouse,4,3.7,Standard,Yes,Yes
+2023-01-15,06-11054-50928,Blouse,3,3.2,Store Pickup,Yes,Yes
+2023-01-15,09-11051-77030,Blouse,3,3.4,Next Day Air,Yes,Yes
+2023-01-15,23-11042-24203,Blouse,5,4.1,Express,Yes,Yes
+2023-01-15,17-11048-14797,Blouse,2,4.5,Next Day Air,Yes,Yes
+2023-01-15,113-0760196-9002649,Skirt,4,4.5,Next Day Air,Yes,Yes
+2023-01-15,26-11034-79007,Blouse,3,3.2,Free Shipping,Yes,Yes
+2023-01-15,22-11037-95515,Blouse,1,4.4,Store Pickup,Yes,Yes
+2023-01-15,05-11052-17675,Blouse,3,3,Store Pickup,Yes,Yes
+2023-01-15,21-11037-97507,Blouse,4,3.2,Free Shipping,Yes,Yes
+2023-01-15,22-11045-12052,Dress,4,4,Store Pickup,Yes,Yes
+2023-01-15,18-11047-77260,Blouse,4,3.1,Next Day Air,Yes,Yes
+2023-01-15,24-11054-23467,Blouse,3,2.8,Next Day Air,Yes,Yes
+2023-01-15,576569345670484225,Skirt,2,4.6,Next Day Air,Yes,Yes
+2023-01-15,14-11051-05547,Blouse,1,4.3,Express,Yes,Yes
+2023-01-15,20-11046-03766,Blouse,2,3.3,Standard,Yes,Yes
+2023-01-15,3180774916,Shirt,5,3.5,2-Day Shipping,Yes,Yes
+2023-01-16,22-11020-43991,Dress,3,3.4,Free Shipping,Yes,Yes
+2023-01-16,20-11030-59273,Dress,5,2.8,Free Shipping,Yes,Yes
+2023-01-16,14-11041-59642,Dress,4,4.6,Store Pickup,Yes,Yes
+2023-01-16,15-11049-22759,Blouse,4,3.6,Express,Yes,Yes
+2023-01-16,23-11047-82847,Blouse,3,3.3,Store Pickup,Yes,Yes
+2023-01-16,04-11061-88802,Blouse,5,3.1,2-Day Shipping,Yes,Yes
+2023-01-16,12-11052-92480,Blouse,5,3.5,Express,Yes,Yes
+2023-01-16,21-11047-70469,Blouse,5,3.2,Express,Yes,Yes
+2023-01-16,18-11050-40923,Blouse,1,3,Express,Yes,Yes
+2023-01-16,01-11059-88980,Blouse,3,4.8,Express,Yes,Yes
+2023-01-16,27-11045-76812,Blouse,4,5,Store Pickup,Yes,Yes
+2023-01-16,09-11050-06496,Blouse,4,2.9,Free Shipping,Yes,Yes
+2023-01-16,08-11059-69905,Blouse,4,3.2,Express,Yes,Yes
+2023-01-16,3173753391,Shirt,5,2.9,Store Pickup,Yes,Yes
+2023-01-16,01-11056-02326,Blouse,1,3.3,Free Shipping,Yes,Yes
+2023-01-16,11-11046-53636,Blouse,2,2.6,Next Day Air,Yes,Yes
+2023-01-16,14-11051-75704,Blouse,2,3.5,Standard,Yes,Yes
+2023-01-16,09-11057-59024,Blouse,2,4.4,Standard,Yes,Yes
+2023-01-16,18-11051-32147,Blouse,3,3.4,Next Day Air,Yes,Yes
+2023-01-16,11-11053-74341,Blouse,2,4.2,Store Pickup,Yes,Yes
+2023-01-16,14-11049-12141,Dress,4,3.6,Store Pickup,Yes,Yes
+2023-01-16,01-11055-19814,Blouse,2,3,Next Day Air,Yes,Yes
+2023-01-16,27-11036-97618,Blouse,2,4,Free Shipping,Yes,Yes
+2023-01-16,11-11057-86376,Blouse,4,4.4,Express,Yes,Yes
+2023-01-16,26-11036-41382,Blouse,1,4.1,Standard,Yes,Yes
+2023-01-16,3176393596-resend,Shirt,4,3.6,Free Shipping,Yes,Yes
+2023-01-16,23-11042-67468,Blouse,5,4.6,Next Day Air,Yes,Yes
+2023-01-16,20-11023-48735,Dress,2,3.2,2-Day Shipping,Yes,Yes
+2023-01-16,07-11039-01778,Dress,1,4.8,Free Shipping,Yes,Yes
+2023-01-16,05-11056-46261,Blouse,1,4.8,Express,Yes,Yes
+2023-01-16,17-11048-55303,Blouse,1,5,2-Day Shipping,Yes,Yes
+2023-01-16,17-11051-51185,Blouse,4,3.7,Store Pickup,Yes,Yes
+2023-01-16,113-3576292-9483464,Skirt,3,4.6,Next Day Air,Yes,Yes
+2023-01-16,08-11051-03572,Blouse,4,3.7,Free Shipping,Yes,Yes
+2023-01-16,3182858204,Skirt,2,4.1,Free Shipping,Yes,Yes
+2023-01-16,3173737525,Shirt,1,2.7,Store Pickup,Yes,Yes
+2023-01-16,3182362774,Shirt,3,4.9,Store Pickup,Yes,Yes
+2023-01-16,3173910829,Shirt,2,4,Store Pickup,Yes,Yes
+2023-01-16,12-11034-94244,Dress,3,4.7,Free Shipping,Yes,Yes
+2023-01-17,3173693573,Shirt,2,2.8,Next Day Air,Yes,Yes
+2023-01-17,3174904257,Shirt,1,4.9,2-Day Shipping,Yes,Yes
+2023-01-17,16-11057-93458,Blouse,3,4.2,Express,Yes,Yes
+2023-01-17,3183259204,Shirt,4,3,Standard,Yes,Yes
+2023-01-17,27-11042-82067,Blouse,4,3.4,2-Day Shipping,Yes,Yes
+2023-01-17,15-11057-16109,Blouse,1,4.6,Standard,Yes,Yes
+2023-01-17,3174210323,Shirt,1,4.2,Store Pickup,Yes,Yes
+2023-01-17,15-11056-70569,Blouse,2,3.2,Free Shipping,Yes,Yes
+2023-01-17,16-11054-89940,Blouse,2,4.4,Store Pickup,Yes,Yes
+2023-01-17,11-11059-27269,Blouse,2,2.5,Next Day Air,Yes,Yes
+2023-01-17,17-11057-17114,Blouse,4,3.6,Next Day Air,Yes,Yes
+2023-01-17,04-11065-32752,Blouse,4,4.5,Store Pickup,Yes,Yes
+2023-01-17,07-11063-64528,Blouse,1,3.4,Standard,Yes,Yes
+2023-01-17,3183239624,Shirt,5,3.2,2-Day Shipping,Yes,Yes
+2023-01-17,25-11051-69521,Blouse,3,4.2,Standard,Yes,Yes
+2023-01-17,25-11048-20834,Blouse,3,5,2-Day Shipping,Yes,Yes
+2023-01-17,16-11055-95039,Blouse,4,4.7,Store Pickup,Yes,Yes
+2023-01-17,09-11059-20681,Blouse,4,4.2,Next Day Air,Yes,Yes
+2023-01-18,23-11055-97950,Blouse,4,3.4,2-Day Shipping,Yes,Yes
+2023-01-18,19-11060-43503,Blouse,5,4.4,Store Pickup,Yes,Yes
+2023-01-18,14-11063-02800,Blouse,4,4.2,Standard,Yes,Yes
+2023-01-18,06-11067-51590,Blouse,4,4.5,Standard,Yes,Yes
+2023-01-18,01-11070-00388,Blouse,1,2.8,Next Day Air,Yes,Yes
+2023-01-18,06-11068-48330,Blouse,2,3.3,Next Day Air,Yes,Yes
+2023-01-18,24-11064-45665,Dress,2,4.6,Next Day Air,Yes,Yes
+2023-01-18,25-11040-93906,Blouse,5,2.5,Free Shipping,Yes,Yes
+2023-01-18,3175838559,Shirt,2,4.7,Store Pickup,Yes,Yes
+2023-01-18,3175877385,Shirt,1,4.6,Express,Yes,Yes
+2023-01-18,3175885899,Shirt,4,2.6,Standard,Yes,Yes
+2023-01-18,01-11071-09552,Blouse,3,4,Standard,Yes,Yes
+2023-01-18,07-11067-69889,Blouse,3,2.6,Next Day Air,Yes,Yes
+2023-01-18,3176208031,Skirt,3,4.6,Free Shipping,Yes,Yes
+2023-01-18,14-11060-33638,Blouse,3,2.6,Standard,Yes,Yes
+2023-01-18,19-11060-38862,Blouse,5,4,Express,Yes,Yes
+2023-01-18,04-11066-96995,Blouse,4,4.6,Store Pickup,Yes,Yes
+2023-01-18,22-11054-63857,Blouse,4,3.7,2-Day Shipping,Yes,Yes
+2023-01-18,18-11057-85446,Blouse,5,4.4,Store Pickup,Yes,Yes
+2023-01-18,3175968631,Shirt,4,4,Next Day Air,Yes,Yes
+2023-01-18,20-11056-73424,Blouse,1,4.7,Standard,Yes,Yes
+2023-01-18,14-11062-56287,Blouse,4,3.4,Express,Yes,Yes
+2023-01-18,16-11060-05975,Blouse,4,4,Next Day Air,Yes,Yes
+2023-01-19,12-11056-10227,Dress,5,3.9,Standard,Yes,Yes
+2023-01-19,10-11062-23695,Dress,2,4.1,Express,Yes,Yes
+2023-01-19,114-0434189-3869833,Skirt,2,3.7,2-Day Shipping,Yes,Yes
+2023-01-19,3183148006,Skirt,2,4.7,Standard,Yes,Yes
+2023-01-19,25-11060-80398,Dress,2,4.3,2-Day Shipping,Yes,Yes
+2023-01-19,14-11058-77763,Dress,3,4.1,Store Pickup,Yes,Yes
+2023-01-19,3184495734,Shirt,2,3.9,Next Day Air,Yes,Yes
+2023-01-19,3184614766,Shirt,1,2.9,Express,Yes,Yes
+2023-01-19,08-11069-63070,Dress,1,3.9,Standard,Yes,Yes
+2023-01-19,14-11061-00929,Dress,1,4.3,2-Day Shipping,Yes,Yes
+2023-01-19,01-11076-36047,Dress,5,2.8,Store Pickup,Yes,Yes
+2023-01-19,16-11058-30033,Dress,5,3.4,2-Day Shipping,Yes,Yes
+2023-01-20,11-11069-66064,Blouse,1,2.7,Express,Yes,Yes
+2023-01-20,26-11062-12171,Blouse,1,4,2-Day Shipping,Yes,Yes
+2023-01-20,16-1103-54630,Blouse,2,4.4,Store Pickup,Yes,Yes
+2023-01-20,22-11054-96145,Blouse,1,3.9,2-Day Shipping,Yes,Yes
+2023-01-20,3184585270,Skirt,1,2.8,2-Day Shipping,Yes,Yes
+2023-01-20,23-11058-27611,Blouse,2,3.2,Next Day Air,Yes,Yes
+2023-01-20,01-11076-00035,Blouse,5,4.3,Next Day Air,Yes,Yes
+2023-01-20,23-11058-27610,Blouse,3,4.2,Express,Yes,Yes
+2023-01-20,23-11058-27609,Blouse,3,4.9,Standard,Yes,Yes
+2023-01-20,25-11060-29518,Blouse,3,3.7,Express,Yes,Yes
+2023-01-20,15-11063-24780,Blouse,1,4.1,Store Pickup,Yes,Yes
+2023-01-20,16-11056-63022,Blouse,5,4.2,Store Pickup,Yes,Yes
+2023-01-20,15-11062-41631,Blouse,4,3.9,Next Day Air,Yes,Yes
+2023-01-20,13-11067-85474,Blouse,4,2.9,Next Day Air,Yes,Yes
+2023-01-20,16-11061-42846,Blouse,2,3.1,Free Shipping,Yes,Yes
+2023-01-20,23-11059-93487,Blouse,3,3.6,2-Day Shipping,Yes,Yes
+2023-01-20,23-11058-27608,Blouse,4,4.4,2-Day Shipping,Yes,Yes
+2023-01-20,15-11069-90571,Blouse,2,3.1,Free Shipping,Yes,Yes
+2023-01-20,14-11064-13439,Blouse,2,3.9,Standard,Yes,Yes
+2023-01-20,01-11077-27491,Blouse,2,4.3,Free Shipping,Yes,Yes
+2023-01-20,13-11068-37076,Blouse,3,4.9,Store Pickup,Yes,Yes
+2023-01-20,03-11072-28685,Blouse,3,3.6,2-Day Shipping,Yes,Yes
+2023-01-20,24-11066-28181,Blouse,5,5,2-Day Shipping,Yes,Yes
+2023-01-20,06-11071-67295,Blouse,3,4.1,Store Pickup,Yes,Yes
+2023-01-20,01-11077-74552,Blouse,2,2.8,Express,Yes,Yes
+2023-01-20,17-11063-85696,Blouse,1,4.7,Express,Yes,Yes
+2023-01-20,23-11060-46926,Blouse,2,4.4,Express,Yes,Yes
+2023-01-20,11-11069-31521,Blouse,4,4.9,2-Day Shipping,Yes,Yes
+2023-01-20,27-11062-54752,Blouse,1,3.1,Free Shipping,Yes,Yes
+2023-01-20,09-11071-24857,Blouse,2,2.6,Standard,Yes,Yes
+2023-01-22,02-11079-33785,Blouse,1,2.9,Express,Yes,Yes
+2023-01-22,16-11066-60354,Blouse,5,3.3,Free Shipping,Yes,Yes
+2023-01-22,26-11063-93044,Blouse,5,4.8,Next Day Air,Yes,Yes
+2023-01-22,14-11072-50658,Blouse,4,4.7,Express,Yes,Yes
+2023-01-22,10-11083-55621,Blouse,3,3.3,2-Day Shipping,Yes,Yes
+2023-01-22,17-11070-73173,Blouse,5,4.2,Free Shipping,Yes,Yes
+2023-01-22,3187448976,Shirt,4,4.7,Store Pickup,Yes,Yes
+2023-01-22,17-11073-55461,Blouse,1,2.6,2-Day Shipping,Yes,Yes
+2023-01-22,27-11070-43688,Blouse,3,2.9,2-Day Shipping,Yes,Yes
+2023-01-22,3180194543,Shirt,2,2.7,Express,Yes,Yes
+2023-01-22,22-11069-06122,Blouse,4,3.3,Store Pickup,Yes,Yes
+2023-01-22,3184340120,Skirt,1,3.4,Express,Yes,Yes
+2023-01-22,3187731700,Shirt,5,4.2,Express,Yes,Yes
+2023-01-22,3178680141,Shirt,5,3.8,2-Day Shipping,Yes,Yes
+2023-01-22,08-11077-69222,Blouse,2,4,Standard,Yes,Yes
+2023-01-22,17-11075-68488,Blouse,3,2.7,Free Shipping,Yes,Yes
+2023-01-22,3180258823,Shirt,3,4.7,Express,Yes,Yes
+2023-01-22,3178701493,Shirt,5,3.5,Standard,Yes,Yes
+2023-01-22,13-11074-68079,Blouse,4,3,2-Day Shipping,Yes,Yes
+2023-01-22,04-11084-94065,Blouse,5,3.3,Free Shipping,Yes,Yes
+2023-01-22,18-11069-90596,Blouse,3,4.7,Store Pickup,Yes,Yes
+2023-01-22,24-11085-85249,Blouse,1,4.7,Express,Yes,Yes
+2023-01-22,20-11066-75274,Blouse,2,4.8,Standard,Yes,Yes
+2023-01-22,3178661051,Shirt,5,2.9,Standard,Yes,Yes
+2023-01-22,17-11075-68489,Blouse,4,4,2-Day Shipping,Yes,Yes
+2023-01-22,3177452455,Shirt,1,3.1,Free Shipping,Yes,Yes
+2023-01-22,3185988346,Shirt,3,3.5,2-Day Shipping,Yes,Yes
+2023-01-22,3178390717,Shirt,1,3.7,Next Day Air,Yes,Yes
+2023-01-22,3186037550,Shirt,2,2.8,Standard,Yes,Yes
+2023-01-22,3187096546,Shirt,1,4.6,Free Shipping,Yes,Yes
+2023-01-22,3176643373,Shirt,4,3.8,Standard,Yes,Yes
+2023-01-22,3185311788,Shirt,2,2.6,2-Day Shipping,Yes,Yes
+2023-01-22,3177771615,Shirt,1,4.1,Standard,Yes,Yes
+2023-01-22,3177714861,Shirt,3,3.3,Next Day Air,Yes,Yes
+2023-01-22,3185659040,Shirt,4,3.4,Store Pickup,Yes,Yes
+2023-01-22,05-11078-22161,Blouse,2,3,Standard,Yes,Yes
+2023-01-22,05-11085-39602,Blouse,3,3.2,Express,Yes,Yes
+2023-01-22,07-11075-46847,Blouse,2,4.5,Free Shipping,Yes,Yes
+2023-01-22,07-11076-61007,Blouse,3,4.8,Express,Yes,Yes
+2023-01-22,27-11061-72491,Blouse,1,3.7,Next Day Air,Yes,Yes
+2023-01-22,09-11074-09983,Blouse,5,3.4,Store Pickup,Yes,Yes
+2023-01-22,19-11073-71066,Blouse,5,4.6,Standard,Yes,Yes
+2023-01-22,12-11079-48316,Blouse,2,4.1,Standard,Yes,Yes
+2023-01-22,17-11075-48923,Blouse,5,3.5,2-Day Shipping,Yes,Yes
+2023-01-22,09-11084-24265,Blouse,4,3.8,Next Day Air,Yes,Yes
+2023-01-22,05-11078-29207,Blouse,4,2.6,Express,Yes,Yes
+2023-01-22,22-11071-30721,Blouse,3,4.4,Store Pickup,Yes,Yes
+2023-01-22,25-11070-63802,Blouse,2,2.6,Express,Yes,Yes
+2023-01-22,25-11064-12148,Blouse,1,3.6,Express,Yes,Yes
+2023-01-22,06-11074-49052,Blouse,1,4.2,Express,Yes,Yes
+2023-01-22,24-11080-02558,Blouse,5,4.6,Standard,Yes,Yes
+2023-01-22,19-11070-14795,Blouse,5,3.3,Next Day Air,Yes,Yes
+2023-01-22,20-11069-44447,Blouse,2,3.4,Free Shipping,Yes,Yes
+2023-01-22,24-11079-41094,Blouse,4,4.4,Next Day Air,Yes,Yes
+2023-01-22,19-11068-78787,Blouse,2,4.3,Store Pickup,Yes,Yes
+2023-01-22,03-11072-55343,Blouse,3,3.5,Express,Yes,Yes
+2023-01-22,06-11076-99250,Blouse,1,4.7,Store Pickup,Yes,Yes
+2023-01-22,11-11074-29426,Blouse,1,3.1,Standard,Yes,Yes
+2023-01-22,24-11077-01365,Blouse,2,3.6,Next Day Air,Yes,Yes
+2023-01-22,01-11080-29419,Blouse,5,4.8,Next Day Air,Yes,Yes
+2023-01-22,03-11085-75566,Blouse,3,3.7,Next Day Air,Yes,Yes
+2023-01-22,05-11083-36647,Blouse,4,3.2,Express,Yes,Yes
+2023-01-22,01-11084-51008,Blouse,1,3.9,Standard,Yes,Yes
+2023-01-22,03-11087-28460,Blouse,5,3.5,Free Shipping,Yes,Yes
+2023-01-22,3179819405,Skirt,5,2.8,Express,Yes,Yes
+2023-01-22,3161695203-resend,Shirt,2,2.7,2-Day Shipping,Yes,Yes
+2023-01-22,14-11075-08213,Blouse,1,3.1,Express,Yes,Yes
+2023-01-22,17-11075-68487,Blouse,3,3.6,2-Day Shipping,Yes,Yes
+2023-01-22,3166794417-resend,Shirt,3,2.9,2-Day Shipping,Yes,Yes
+2023-01-22,3188618256,Skirt,4,3.6,Store Pickup,Yes,Yes
+2023-01-22,3177301745,Shirt,4,3.5,2-Day Shipping,Yes,Yes
+2023-01-22,11-11073-75178,Blouse,1,3.5,Free Shipping,Yes,Yes
+2023-01-22,20-11071-06282,Blouse,1,2.8,Next Day Air,Yes,Yes
+2023-01-22,17-11077-03485,Blouse,4,4.7,Free Shipping,Yes,Yes
+2023-01-22,19-11066-53928,Blouse,3,3.1,Express,Yes,Yes
+2023-01-22,15-11080-00826,Dress,1,4.9,Free Shipping,Yes,Yes
+2023-01-22,24-11079-96532,Blouse,2,4.1,Next Day Air,Yes,Yes
+2023-01-22,01-11081-76271,Blouse,2,4.7,Standard,Yes,Yes
+2023-01-23,3189390552,Shirt,5,2.5,Free Shipping,Yes,Yes
+2023-01-23,13-11085-65578,Blouse,3,4.4,Next Day Air,Yes,Yes
+2023-01-23,25-11076-16514,Blouse,2,3.9,Free Shipping,Yes,Yes
+2023-01-23,111-1293941-6933058,Skirt,2,3.7,Standard,Yes,Yes
+2023-01-23,3180883013,Shirt,4,3.4,Free Shipping,Yes,Yes
+2023-01-23,3189205356,Shirt,2,4.8,Free Shipping,Yes,Yes
+2023-01-23,25-11076-00672,Blouse,4,4.2,2-Day Shipping,Yes,Yes
+2023-01-23,07-11081-16151,Blouse,5,3.4,Store Pickup,Yes,Yes
+2023-01-23,3186382946,Skirt,1,2.9,Store Pickup,Yes,Yes
+2023-01-23,08-11074-83344,Blouse,5,3.3,Free Shipping,Yes,Yes
+2023-01-23,3179959585,Dress,2,4.8,Standard,Yes,Yes
+2023-01-23,3186076364,Skirt,4,3.8,Store Pickup,Yes,Yes
+2023-01-23,08-11086-87771,Blouse,3,4.6,2-Day Shipping,Yes,Yes
+2023-01-23,15-11075-65783,Blouse,1,2.6,Next Day Air,Yes,Yes
+2023-01-23,14-11078-38556,Blouse,2,3.4,Free Shipping,Yes,Yes
+2023-01-23,14-11077-64197,Dress,4,4.2,Express,Yes,Yes
+2023-01-23,3181215415,Shirt,1,3.9,Standard,Yes,Yes
+2023-01-23,02-11079-77540,Blouse,5,2.9,2-Day Shipping,Yes,Yes
+2023-01-23,113-2381915-4393856,Skirt,5,4.2,Free Shipping,Yes,Yes
+2023-01-23,24-11082-84877,Blouse,2,3,Store Pickup,Yes,Yes
+2023-01-23,3180360375,Shirt,1,3.6,Next Day Air,Yes,Yes
+2023-01-24,09-11044-64466RP,Blouse,1,2.5,Next Day Air,Yes,Yes
+2023-01-24,17-11086-71679,Blouse,4,2.6,Express,Yes,Yes
+2023-01-24,16-11085-70414,Blouse,2,4.3,Store Pickup,Yes,Yes
+2023-01-24,26-11081-16791,Blouse,3,3.3,Express,Yes,Yes
+2023-01-24,3181381785,Shirt,5,2.6,Next Day Air,Yes,Yes
+2023-01-24,3190054506,Shirt,3,3.6,Free Shipping,Yes,Yes
+2023-01-24,3190373902,Shirt,3,2.6,Express,Yes,Yes
+2023-01-24,02-11084-38685,Blouse,4,3.5,Standard,Yes,Yes
+2023-01-24,03-11092-21010,Blouse,1,3,Store Pickup,Yes,Yes
+2023-01-24,22-11082-49158,Blouse,5,5,Standard,Yes,Yes
+2023-01-24,12-11089-51428,Blouse,5,2.5,Express,Yes,Yes
+2023-01-24,3190479764,Shirt,1,2.9,Store Pickup,Yes,Yes
+2023-01-24,16-11087-84852,Blouse,5,4.6,Express,Yes,Yes
+2023-01-24,01-11098-50972,Blouse,1,3.6,Free Shipping,Yes,Yes
+2023-01-24,3181408529,Shirt,2,3,Store Pickup,Yes,Yes
+2023-01-24,3190321774,Shirt,3,4.5,Standard,Yes,Yes
+2023-01-24,09-11092-37319,Blouse,3,4.5,Next Day Air,Yes,Yes
+2023-01-25,15-11084-22268,Blouse,5,3.2,Store Pickup,Yes,Yes
+2023-01-25,07-11096-54000,Blouse,3,4,Next Day Air,Yes,Yes
+2023-01-25,07-11096-54005,Blouse,4,4.8,Express,Yes,Yes
+2023-01-25,03-11102-06608,Blouse,2,3.7,Free Shipping,Yes,Yes
+2023-01-25,18-11086-92070,Blouse,4,3.8,Store Pickup,Yes,Yes
+2023-01-25,19-11089-63537,Blouse,4,2.7,Standard,Yes,Yes
+2023-01-25,06-11099-51200,Blouse,5,4.9,Store Pickup,Yes,Yes
+2023-01-25,11-11093-10882,Blouse,2,3.1,2-Day Shipping,Yes,Yes
+2023-01-25,23-11083-40377,Blouse,4,4.2,Next Day Air,Yes,Yes
+2023-01-25,14-11083-79047,Blouse,4,3.8,Free Shipping,Yes,Yes
+2023-01-26,22-11086-13190,Blouse,4,4.2,Store Pickup,Yes,Yes
+2023-01-26,02-11101-38579,Blouse,2,4.6,Store Pickup,Yes,Yes
+2023-01-26,03-11105-88807,Blouse,3,4,2-Day Shipping,Yes,Yes
+2023-01-26,18-11095-13029,Blouse,4,4,2-Day Shipping,Yes,Yes
+2023-01-26,04-11103-17960,Blouse,3,3.8,2-Day Shipping,Yes,Yes
+2023-01-26,27-11085-13957,Blouse,2,3.3,Free Shipping,Yes,Yes
+2023-01-26,12-11095-10365,Blouse,5,2.6,Free Shipping,Yes,Yes
+2023-01-26,24-11105-68691,Blouse,4,4.9,Express,Yes,Yes
+2023-01-26,10-11096-79102,Blouse,1,3.5,Next Day Air,Yes,Yes
+2023-01-26,17-11094-86096,Blouse,3,2.8,Express,Yes,Yes
+2023-01-26,22-11089-72481,Blouse,2,2.6,Store Pickup,Yes,Yes
+2023-01-26,02-11100-18036,Dress,1,3.7,Next Day Air,Yes,Yes
+2023-01-26,26-11086-25117,Blouse,2,2.7,Standard,Yes,Yes
+2023-01-26,23-11086-62449,Blouse,5,3.3,Express,Yes,Yes
+2023-01-26,17-11093-97073,Blouse,4,4.6,Next Day Air,Yes,Yes
+2023-01-26,06-11089-91066,Dress,3,4.9,Next Day Air,Yes,Yes
+2023-01-26,12-11099-39549,Blouse,5,4.9,Store Pickup,Yes,Yes
+2023-01-26,09-11091-19045,Blouse,1,2.7,Free Shipping,Yes,Yes
+2023-01-26,03-11104-90504,Blouse,5,3.2,Standard,Yes,Yes
+2023-01-26,23-11090-93906,Blouse,5,2.9,Store Pickup,Yes,Yes
+2023-01-26,03-11105-87243,Blouse,5,3.8,Express,Yes,Yes
+2023-01-26,12-11080-12660,Dress,4,3,Next Day Air,Yes,Yes
+2023-01-26,13-11096-83143,Blouse,4,3.9,Store Pickup,Yes,Yes
+2023-01-27,02-11107-38189,Blouse,4,4.7,Store Pickup,Yes,Yes
+2023-01-27,04-11105-04191,Dress,2,4.9,Store Pickup,Yes,Yes
+2023-01-27,03-11109-62593,Blouse,5,4.8,Next Day Air,Yes,Yes
+2023-01-27,07-11106-02144,Blouse,4,2.5,2-Day Shipping,Yes,Yes
+2023-01-27,3191649556,Shirt,1,3.9,Standard,Yes,Yes
+2023-01-27,3192210092,Shirt,2,3.4,Standard,Yes,Yes
+2023-01-27,10-11096-34478,Dress,1,2.5,Free Shipping,Yes,Yes
+2023-01-27,3183719205,Shirt,1,3,Store Pickup,Yes,Yes
+2023-01-27,3184156111,Shirt,3,3.6,Next Day Air,Yes,Yes
+2023-01-27,3193082646,Shirt,1,3.6,Standard,Yes,Yes
+2023-01-27,09-11103-50640,Blouse,5,4.1,Free Shipping,Yes,Yes
+2023-01-27,17-11094-62683,Dress,2,3.7,2-Day Shipping,Yes,Yes
+2023-01-27,3191327724,Shirt,1,3.1,2-Day Shipping,Yes,Yes
+2023-01-27,3184894349,Shirt,2,4.2,Express,Yes,Yes
+2023-01-27,3184130201,Shirt,3,4.3,Express,Yes,Yes
+2023-01-27,06-11105-62800,Blouse,4,2.5,Express,Yes,Yes
+2023-01-27,3191320100,Shirt,3,3.5,Standard,Yes,Yes
+2023-01-27,3183538551,Shirt,4,3.1,Free Shipping,Yes,Yes
+2023-01-27,3184664959,Shirt,4,2.5,Next Day Air,Yes,Yes
+2023-01-27,3183801997,Shirt,5,3.9,Store Pickup,Yes,Yes
+2023-01-27,24-11106-54604,Blouse,1,4.9,Express,Yes,Yes
+2023-01-27,15-11094-45424,Blouse,2,4.3,Express,Yes,Yes
+2023-01-27,27-11002-87864,Dress,3,2.6,Free Shipping,Yes,Yes
+2023-01-27,03-11108-33712,Blouse,5,4.2,2-Day Shipping,Yes,Yes
+2023-01-27,3192379416,Shirt,2,2.6,Store Pickup,Yes,Yes
+2023-01-27,10-11100-95779,Dress,3,3.6,Express,Yes,Yes
+2023-01-27,09-11101-54577,Blouse,2,3.2,Express,Yes,Yes
+2023-01-27,03-11109-56833,Blouse,1,4.4,Express,Yes,Yes
+2023-01-29,3184746677,Shirt,4,3.7,Standard,Yes,Yes
+2023-01-29,19-11101-50137,Blouse,5,3.7,Express,Yes,Yes
+2023-01-29,3192378522,Shirt,4,4.1,Standard,Yes,Yes
+2023-01-29,01-11119-33398,Blouse,1,3.6,Store Pickup,Yes,Yes
+2023-01-29,08-11104-00976,Blouse,5,4.3,Express,Yes,Yes
+2023-01-29,14-11100-86625,Blouse,1,2.6,Store Pickup,Yes,Yes
+2023-01-29,3185624599,Shirt,2,2.9,Express,Yes,Yes
+2023-01-29,08-11106-81637,Dress,2,4.2,Next Day Air,Yes,Yes
+2023-01-29,14-11106-60404,Blouse,5,4,Free Shipping,Yes,Yes
+2023-01-29,3193920374,Skirt,5,4.3,Free Shipping,Yes,Yes
+2023-01-29,3194288010,Shirt,2,3,2-Day Shipping,Yes,Yes
+2023-01-29,12-11106-16542,Blouse,3,3.5,Express,Yes,Yes
+2023-01-29,3185837765,Shirt,2,3,Standard,Yes,Yes
+2023-01-29,19-11106-10506,Blouse,2,3.1,Free Shipping,Yes,Yes
+2023-01-29,3193298716,Skirt,2,4,Next Day Air,Yes,Yes
+2023-01-29,15-11098-04472,Blouse,1,4.1,Standard,Yes,Yes
+2023-01-29,06-11113-66699,Blouse,1,3.3,2-Day Shipping,Yes,Yes
+2023-01-29,19-11097-13274,Blouse,3,4.9,Standard,Yes,Yes
+2023-01-29,17-11099-47439,Blouse,1,3.9,Standard,Yes,Yes
+2023-01-29,08-11112-40397,Blouse,4,3.9,Next Day Air,Yes,Yes
+2023-01-29,12-11106-85305,Blouse,4,4.8,Store Pickup,Yes,Yes
+2023-01-29,13-11109-23250,Blouse,1,2.7,Free Shipping,Yes,Yes
+2023-01-29,11-11102-85872,Blouse,5,3.1,Free Shipping,Yes,Yes
+2023-01-29,05-11110-72135,Dress,4,3.2,Next Day Air,Yes,Yes
+2023-01-29,18-11102-23864,Blouse,5,2.7,2-Day Shipping,Yes,Yes
+2023-01-29,19-11102-77928,Blouse,4,2.5,Standard,Yes,Yes
+2023-01-29,19-11101-99346,Blouse,5,2.6,Next Day Air,Yes,Yes
+2023-01-29,26-11090-39314,Blouse,4,2.9,Standard,Yes,Yes
+2023-01-29,22-11104-17811,Blouse,5,4.2,Free Shipping,Yes,Yes
+2023-01-29,18-11097-71777,Blouse,2,4.4,Free Shipping,Yes,Yes
+2023-01-29,3192392488,Shirt,3,4.1,Free Shipping,Yes,Yes
+2023-01-29,13-11105-98743,Blouse,5,3.8,2-Day Shipping,Yes,Yes
+2023-01-29,27-11094-42364,Blouse,3,4.9,Next Day Air,Yes,Yes
+2023-01-29,20-11104-52738,Blouse,3,4.9,Express,Yes,Yes
+2023-01-29,24-11115-19680,Blouse,4,4.1,Free Shipping,Yes,Yes
+2023-01-29,3194123258,Shirt,1,3.1,Express,Yes,Yes
+2023-01-30,02-11120-16209,Blouse,3,2.7,Next Day Air,Yes,Yes
+2023-01-30,02-11121-60422,Blouse,2,3.8,Next Day Air,Yes,Yes
+2023-01-30,3196231754,Shirt,5,4.3,Free Shipping,Yes,Yes
+2023-01-30,27-11103-72483,Blouse,1,4.1,Express,Yes,Yes
+2023-01-30,25-11097-78443,Blouse,4,4.4,Free Shipping,Yes,Yes
+2023-01-30,05-11118-47323,Blouse,4,3.6,Express,Yes,Yes
+2023-01-30,05-11121-72006,Blouse,4,3.3,2-Day Shipping,Yes,Yes
+2023-01-30,3185693533,Shirt,1,3.6,Express,Yes,Yes
+2023-01-30,17-11110-72264,Blouse,5,2.8,Free Shipping,Yes,Yes
+2023-01-30,12-11115-16303,Blouse,1,4.3,2-Day Shipping,Yes,Yes
+2023-01-30,3187834983,Shirt,3,3.9,Store Pickup,Yes,Yes
+2023-01-30,24-11122-00093,Blouse,2,2.7,Free Shipping,Yes,Yes
+2023-01-30,04-11121-23958,Blouse,2,4.7,Express,Yes,Yes
+2023-01-30,20-11106-52596,Blouse,1,3.8,Free Shipping,Yes,Yes
+2023-01-30,3196563822,Shirt,2,4.7,Next Day Air,Yes,Yes
+2023-01-30,3188467511,Skirt,3,4.7,Express,Yes,Yes
+2023-01-30,3196702700,Shirt,4,3.4,Express,Yes,Yes
+2023-01-31,3189310231,Skirt,2,3.5,2-Day Shipping,Yes,Yes
+2023-01-31,3189146167,Shirt,1,4,Standard,Yes,Yes
+2023-01-31,3197834978,Shirt,4,3.3,Free Shipping,Yes,Yes
+2023-01-31,3197220576,Shirt,4,4.7,2-Day Shipping,Yes,Yes
+2023-01-31,22-11103-87497,Dress,3,2.8,Next Day Air,Yes,Yes
+2023-01-31,01-11123-63365,Dress,2,3.3,Express,Yes,Yes
+2023-01-31,12-11117-06400,Blouse,4,2.9,Free Shipping,Yes,Yes
+2023-01-31,3189144243,Shirt,4,2.8,Standard,Yes,Yes
+2023-01-31,09-11118-24859,Blouse,5,4.2,Standard,Yes,Yes
+2023-01-31,11-11098-67708,Dress,5,4.4,Express,Yes,Yes
+2023-01-31,04-11124-10687,Blouse,2,3.6,Free Shipping,Yes,Yes
+2023-01-31,3189085641,Shirt,3,2.7,Express,Yes,Yes
+2023-01-31,3197588032,Shirt,3,3.4,Express,Yes,Yes
+2023-01-31,3197834856,Shirt,5,2.8,2-Day Shipping,Yes,Yes
+2023-01-31,21-11113-65531,Blouse,1,3.4,Next Day Air,Yes,Yes
+2023-01-31,19-11105-49088,Dress,5,2.6,Next Day Air,Yes,Yes
+2023-01-31,3197714164,Shirt,4,4.1,Standard,Yes,Yes
+2023-01-31,3197500180,Shirt,2,2.9,Store Pickup,Yes,Yes
+2023-01-31,24-11123-45191,Blouse,4,2.7,Standard,Yes,Yes
+2023-01-31,3197684562,Shirt,4,3.7,Standard,Yes,Yes
+2023-01-31,3189462115,Shirt,5,4.3,2-Day Shipping,Yes,Yes
+2023-02-01,14-11121-67082,Blouse,3,2.6,2-Day Shipping,Yes,Yes
+2023-02-01,22-11109-87182,Blouse,1,4.3,Free Shipping,Yes,Yes
+2023-02-01,3189672033,Shirt,4,4.1,Express,Yes,Yes
+2023-02-01,09-11124-30760,Blouse,2,4.2,Standard,Yes,Yes
+2023-02-01,3189857691,Shirt,4,4.2,2-Day Shipping,Yes,Yes
+2023-02-01,3198707500,Shirt,3,3.1,Standard,Yes,Yes
+2023-02-01,07-11126-90191,Blouse,4,4.9,Express,Yes,Yes
+2023-02-01,3190099727,Shirt,3,4.4,Express,Yes,Yes
+2023-02-01,06-11127-37609,Blouse,5,4.4,Standard,Yes,Yes
+2023-02-01,03-11130-01929,Blouse,1,3.4,Store Pickup,Yes,Yes
+2023-02-01,3190052601,Shirt,3,4.5,2-Day Shipping,Yes,Yes
+2023-02-01,25-11114-97006,Blouse,1,4.5,Store Pickup,Yes,Yes
+2023-02-01,22-11113-20467,Blouse,2,4.1,Standard,Yes,Yes
+2023-02-01,111-6785245-6360243,Skirt,1,3.2,Standard,Yes,Yes
+2023-02-01,19-11119-09612,Dress,2,2.7,Store Pickup,Yes,Yes
+2023-02-01,17-11116-30267,Blouse,1,3.7,Express,Yes,Yes
+2023-02-01,26-11110-35978,Blouse,5,2.6,Store Pickup,Yes,Yes
+2023-02-01,576579101254128386,Skirt,2,2.7,Free Shipping,Yes,Yes
+2023-02-01,07-11126-16612,Blouse,1,2.7,Express,Yes,Yes
+2023-02-01,3190161039,Shirt,3,4.8,Free Shipping,Yes,Yes
+2023-02-01,04-11130-47706,Dress,3,4.8,Next Day Air,Yes,Yes
+2023-02-01,03-11130-77744,Blouse,5,2.6,Store Pickup,Yes,Yes
+2023-02-02,01-11136-91659,Blouse,4,4.5,2-Day Shipping,Yes,Yes
+2023-02-02,113-2511132-2284206,Skirt,1,3.2,Express,Yes,Yes
+2023-02-02,3190971627,Shirt,4,3.8,Next Day Air,Yes,Yes
+2023-02-02,3191274725,Dress,1,4.8,Express,Yes,Yes
+2023-02-02,11-11118-48130,Dress,3,4.1,Store Pickup,Yes,Yes
+2023-02-02,14-11127-06300,Blouse,4,2.8,Next Day Air,Yes,Yes
+2023-02-02,3190730911,Skirt,4,3.9,Store Pickup,Yes,Yes
+2023-02-02,19-11123-41854,Blouse,4,4.9,Express,Yes,Yes
+2023-02-02,16-11122-31183,Blouse,3,3.4,Standard,Yes,Yes
+2023-02-02,15-11126-89950,Blouse,2,4.1,Free Shipping,Yes,Yes
+2023-02-02,12-11128-98599,Blouse,5,2.9,Express,Yes,Yes
+2023-02-02,3200456258,Dress,5,3.1,2-Day Shipping,Yes,Yes
+2023-02-02,3191062563,Shirt,3,3.6,2-Day Shipping,Yes,Yes
+2023-02-02,3190719079,Shirt,2,3.5,Standard,Yes,Yes
+2023-02-02,112-3272533-4034635,Skirt,1,3.4,Free Shipping,Yes,Yes
+2023-02-02,04-11134-86990,Blouse,2,2.9,2-Day Shipping,Yes,Yes
+2023-02-02,3199928410,Dress,5,4.7,Store Pickup,Yes,Yes
+2023-02-02,113-8094035-9569852,Skirt,4,4.4,Free Shipping,Yes,Yes
+2023-02-02,16-11124-34896,Blouse,2,2.6,Standard,Yes,Yes
+2023-02-02,10-11125-22591,Blouse,2,4.4,Standard,Yes,Yes
+2023-02-02,3191798057,Dress,3,3.7,Next Day Air,Yes,Yes
+2023-02-02,3190900539,Dress,1,4.4,Standard,Yes,Yes
+2023-02-02,19-11121-94108,Blouse,1,2.5,2-Day Shipping,Yes,Yes
+2023-02-03,12-11124-59937,Dress,5,2.6,Next Day Air,Yes,Yes
+2023-02-03,24-11132-48284,Blouse,3,5,Store Pickup,Yes,Yes
+2023-02-03,08-11133-89844,Blouse,3,4.9,Express,Yes,Yes
+2023-02-03,07-11134-81971,Blouse,4,3.7,Store Pickup,Yes,Yes
+2023-02-03,06-11131-31117,Dress,4,3.1,Next Day Air,Yes,Yes
+2023-02-03,20-11125-43467,Blouse,4,3.2,Express,Yes,Yes
+2023-02-03,10-11133-26712,Blouse,1,4.4,Free Shipping,Yes,Yes
+2023-02-03,11-11131-45427,Blouse,2,4.3,Next Day Air,Yes,Yes
+2023-02-03,18-11128-03320,Dress,3,3,Standard,Yes,Yes
+2023-02-03,18-11126-35673,Blouse,4,3.5,2-Day Shipping,Yes,Yes
+2023-02-03,09-11132-56625,Blouse,5,3.6,2-Day Shipping,Yes,Yes
+2023-02-03,576579968755405735,Skirt,3,3.8,2-Day Shipping,Yes,Yes
+2023-02-03,576580221999616738,Skirt,5,3.6,Express,Yes,Yes
+2023-02-04,19-11123-17675,Dress,1,4.6,Express,Yes,Yes
+2023-02-04,576580668333264968,Skirt,1,2.5,Standard,Yes,Yes
+2023-02-04,576580511352066091,Skirt,5,3.5,Store Pickup,Yes,Yes
+2023-02-05,3202322198,Shirt,1,4,Free Shipping,Yes,Yes
+2023-02-05,3203774498,Dress,4,3.5,Next Day Air,Yes,Yes
+2023-02-05,3192767525,Dress,1,3.2,Standard,Yes,Yes
+2023-02-05,13-11135-23938,Blouse,4,3.5,Free Shipping,Yes,Yes
+2023-02-05,3193103401,Shirt,1,3.4,Free Shipping,Yes,Yes
+2023-02-05,3194517661,Dress,3,5,Express,Yes,Yes
+2023-02-05,3202524992,Shirt,5,4.5,Store Pickup,Yes,Yes
+2023-02-05,3194397879,Shirt,5,2.8,Express,Yes,Yes
+2023-02-05,26-11125-92896,Blouse,1,4.9,2-Day Shipping,Yes,Yes
+2023-02-05,3194881417,Dress,4,3.1,Store Pickup,Yes,Yes
+2023-02-05,3194747927,Shirt,2,4.8,Store Pickup,Yes,Yes
+2023-02-05,27-11124-89411,Blouse,5,2.7,Standard,Yes,Yes
+2023-02-05,3193223725,Shirt,2,4.6,Express,Yes,Yes
+2023-02-05,3202336552,Shirt,3,4.4,Store Pickup,Yes,Yes
+2023-02-05,3203514784,Shirt,5,3.2,Express,Yes,Yes
+2023-02-05,3203368776,Shirt,3,3,2-Day Shipping,Yes,Yes
+2023-02-05,25-11127-82231,Blouse,3,4.9,Standard,Yes,Yes
+2023-02-05,19-11135-99492,Dress,1,3.6,Express,Yes,Yes
+2023-02-05,3188949395A,Skirt,2,3.8,Next Day Air,Yes,Yes
+2023-02-05,3194681183,Shirt,5,2.9,Standard,Yes,Yes
+2023-02-05,05-11140-39030,Blouse,3,3.9,Express,Yes,Yes
+2023-02-05,3201428142,Shirt,4,3.6,Standard,Yes,Yes
+2023-02-05,25-11120-54770,Blouse,4,3.5,Store Pickup,Yes,Yes
+2023-02-05,3203795258,Shirt,4,4,Store Pickup,Yes,Yes
+2023-02-05,27-11126-30250,Blouse,1,4.8,2-Day Shipping,Yes,Yes
+2023-02-05,13-11139-18696,Blouse,2,3.9,Store Pickup,Yes,Yes
+2023-02-05,3191952265,Dress,1,4.5,Next Day Air,Yes,Yes
+2023-02-05,3200759532,Dress,5,4.8,Standard,Yes,Yes
+2023-02-05,3192880849,Shirt,3,2.6,Store Pickup,Yes,Yes
+2023-02-05,3194668959,Skirt,3,3.1,Express,Yes,Yes
+2023-02-05,23-11121-26269,Blouse,3,4.7,2-Day Shipping,Yes,Yes
+2023-02-05,3201625182,Shirt,4,2.9,Next Day Air,Yes,Yes
+2023-02-05,14-11133-96768,Dress,5,3.8,Express,Yes,Yes
+2023-02-05,3203686276,Shirt,5,3.8,2-Day Shipping,Yes,Yes
+2023-02-05,3193411083,Dress,3,3,Standard,Yes,Yes
+2023-02-05,11-11141-35093,Blouse,5,4.1,Standard,Yes,Yes
+2023-02-05,3192723147,Dress,1,3.4,Express,Yes,Yes
+2023-02-05,3203171168,Shirt,1,2.5,Express,Yes,Yes
+2023-02-05,3193584053,Shirt,5,4.9,Next Day Air,Yes,Yes
+2023-02-05,3192297401,Shirt,4,2.8,Standard,Yes,Yes
+2023-02-05,3194453513,Dress,5,4.5,Express,Yes,Yes
+2023-02-05,3194415931,Dress,2,4.9,2-Day Shipping,Yes,Yes
+2023-02-05,3193844297,Dress,1,4.9,Store Pickup,Yes,Yes
+2023-02-05,3195001655,Dress,5,3.5,Free Shipping,Yes,Yes
+2023-02-05,3192296347,Shirt,3,3.5,Free Shipping,Yes,Yes
+2023-02-05,3194848803,Shirt,1,4.9,Free Shipping,Yes,Yes
+2023-02-05,3194582813,Dress,5,3,Express,Yes,Yes
+2023-02-05,3203310090,Shirt,5,2.8,Next Day Air,Yes,Yes
+2023-02-05,3203768492,Shirt,5,3.7,Standard,Yes,Yes
+2023-02-05,22-11126-23786,Blouse,2,3.6,2-Day Shipping,Yes,Yes
+2023-02-05,3202955488,Dress,2,3.3,Next Day Air,Yes,Yes
+2023-02-05,06-11140-63431,Blouse,4,3.4,Free Shipping,Yes,Yes
+2023-02-05,3203781290,Shirt,5,4,Free Shipping,Yes,Yes
+2023-02-05,3203020322,Dress,3,4.6,Free Shipping,Yes,Yes
+2023-02-05,3201190084,Shirt,3,4.2,Next Day Air,Yes,Yes
+2023-02-05,3201235092,Dress,2,2.8,Express,Yes,Yes
+2023-02-05,3201645260,Shirt,1,3.7,2-Day Shipping,Yes,Yes
+2023-02-05,3203469324,Dress,1,3.4,Standard,Yes,Yes
+2023-02-05,3193291777,Shirt,1,3,Express,Yes,Yes
+2023-02-06,3196371707,Dress,2,4.8,Standard,Yes,Yes
+2023-02-06,3196478191,Dress,5,4,Next Day Air,Yes,Yes
+2023-02-06,3196190985,Dress,5,4.9,Next Day Air,Yes,Yes
+2023-02-06,3204914684,Shirt,1,4.9,Next Day Air,Yes,Yes
+2023-02-06,05-11131-98751,Dress,4,3.3,2-Day Shipping,Yes,Yes
+2023-02-06,3196300273,Skirt,3,4.4,Next Day Air,Yes,Yes
+2023-02-06,3196000959,Shirt,2,3.5,2-Day Shipping,Yes,Yes
+2023-02-06,3195633939,Shirt,3,4.2,Standard,Yes,Yes
+2023-02-06,3195922139,Shirt,2,4.2,Standard,Yes,Yes
+2023-02-06,3195876493,Shirt,3,2.7,Standard,Yes,Yes
+2023-02-06,3204890882,Shirt,5,2.8,Store Pickup,Yes,Yes
+2023-02-06,3204748542,Dress,4,3.8,Next Day Air,Yes,Yes
+2023-02-06,11-11145-22516,Blouse,3,2.6,Free Shipping,Yes,Yes
+2023-02-06,15-11143-29339,Blouse,2,3,2-Day Shipping,Yes,Yes
+2023-02-06,3204904838,Dress,3,3.3,2-Day Shipping,Yes,Yes
+2023-02-06,3204355318,Shirt,4,4.9,Express,Yes,Yes
+2023-02-06,3205137794,Dress,2,3.3,Next Day Air,Yes,Yes
+2023-02-06,3204512030,Shirt,2,2.9,2-Day Shipping,Yes,Yes
+2023-02-06,3195302277,Shirt,4,4.4,2-Day Shipping,Yes,Yes
+2023-02-06,3196102359,Dress,3,3.1,Next Day Air,Yes,Yes
+2023-02-06,3204936404,Shirt,4,2.5,Standard,Yes,Yes
+2023-02-06,16-11134-66466,Blouse,3,2.6,Next Day Air,Yes,Yes
+2023-02-06,3204707834,Shirt,4,4.4,Free Shipping,Yes,Yes
+2023-02-06,3195718059,Dress,4,2.6,Next Day Air,Yes,Yes
+2023-02-06,04-11147-90816,Blouse,4,3.3,Free Shipping,Yes,Yes
+2023-02-06,3195729451,Dress,1,3.5,Express,Yes,Yes
+2023-02-06,3204472206,Shirt,3,4.1,Store Pickup,Yes,Yes
+2023-02-06,3196212131,Shirt,2,4,Store Pickup,Yes,Yes
+2023-02-06,3195879997,Dress,5,2.7,2-Day Shipping,Yes,Yes
+2023-02-06,3196317915,Dress,2,2.5,Standard,Yes,Yes
+2023-02-06,04-11127-96635,Dress,4,4.3,Next Day Air,Yes,Yes
+2023-02-06,3196019981,Dress,5,3.3,Free Shipping,Yes,Yes
+2023-02-06,3195807209,Shirt,4,2.6,Express,Yes,Yes
+2023-02-06,3204101586,Dress,1,3.5,Express,Yes,Yes
+2023-02-06,07-11148-44338,Dress,3,4,Store Pickup,Yes,Yes
+2023-02-07,m31266849682,Skirt,2,2.6,Standard,Yes,Yes
+2023-02-07,576582267674989538,Skirt,3,4.9,Next Day Air,Yes,Yes
+2023-02-07,576580950011581028,Skirt,4,2.9,Standard,Yes,Yes
+2023-02-07,111-3753327-3685006,Skirt,4,3.7,Standard,Yes,Yes
+2023-02-07,22-11134-56440,Dress,3,4.4,Express,Yes,Yes
+2023-02-08,3206187604,Shirt,3,4.4,Free Shipping,Yes,Yes
+2023-02-08,3204851528,Shirt,2,3.8,Express,Yes,Yes
+2023-02-08,3206021696,Dress,4,4.5,Standard,Yes,Yes
+2023-02-08,3207132168,Dress,3,2.6,Next Day Air,Yes,Yes
+2023-02-08,3195712847,Shirt,5,3.3,Store Pickup,Yes,Yes
+2023-02-08,3195979605,Shirt,5,4.1,Next Day Air,Yes,Yes
+2023-02-08,3205856026,Dress,1,3,Store Pickup,Yes,Yes
+2023-02-08,3197403879,Shirt,3,3,Free Shipping,Yes,Yes
+2023-02-08,3196963189,Shirt,1,3.4,Next Day Air,Yes,Yes
+2023-02-08,3196920835,Dress,5,2.7,Free Shipping,Yes,Yes
+2023-02-08,3205483358,Dress,3,3.8,Next Day Air,Yes,Yes
+2023-02-08,3196886159,Shirt,4,4.2,Store Pickup,Yes,Yes
+2023-02-08,3196570771,Dress,4,4.7,Store Pickup,Yes,Yes
+2023-02-08,22-11144-05956,Dress,2,4.1,2-Day Shipping,Yes,Yes
+2023-02-08,3206669450,Dress,3,4.2,2-Day Shipping,Yes,Yes
+2023-02-08,3206147562,Dress,4,4.8,Next Day Air,Yes,Yes
+2023-02-08,3196533677,Dress,5,3,Free Shipping,Yes,Yes
+2023-02-08,3205219198,Dress,2,2.6,Standard,Yes,Yes
+2023-02-08,3205174660,Dress,1,3.2,Store Pickup,Yes,Yes
+2023-02-08,3196533323,Dress,1,3.6,Next Day Air,Yes,Yes
+2023-02-08,3205162798,Dress,5,2.6,Next Day Air,Yes,Yes
+2023-02-08,3198037221,Dress,2,4.4,Express,Yes,Yes
+2023-02-08,3196845129,Dress,4,3,Free Shipping,Yes,Yes
+2023-02-08,3198204579,Shirt,3,2.9,Express,Yes,Yes
+2023-02-08,3198152571,Dress,4,4.3,Free Shipping,Yes,Yes
+2023-02-08,3197585073,Shirt,4,3.1,Express,Yes,Yes
+2023-02-08,3197999519,Dress,5,3,Next Day Air,Yes,Yes
+2023-02-08,3198027277,Shirt,4,3.6,Store Pickup,Yes,Yes
+2023-02-08,3207148834,Shirt,1,2.8,Store Pickup,Yes,Yes
+2023-02-08,3198267299,Dress,3,2.8,Standard,Yes,Yes
+2023-02-08,3197549205,Dress,2,4.9,Next Day Air,Yes,Yes
+2023-02-08,3205678094,Shirt,4,3,Standard,Yes,Yes
+2023-02-08,3197218901,Dress,1,4.1,Next Day Air,Yes,Yes
+2023-02-08,3196014677,Shirt,5,4.6,Free Shipping,Yes,Yes
+2023-02-08,3198318185,Shirt,4,4.8,Next Day Air,Yes,Yes
+2023-02-08,3204594182,Shirt,4,2.6,Next Day Air,Yes,Yes
+2023-02-08,3197489265,Shirt,2,4,2-Day Shipping,Yes,Yes
+2023-02-08,3197482729,Dress,4,4.2,Express,Yes,Yes
+2023-02-08,3206050436,Dress,3,4.5,Store Pickup,Yes,Yes
+2023-02-08,3198417509,Shirt,1,4.9,Standard,Yes,Yes
+2023-02-08,3206615946,Dress,4,3.1,Standard,Yes,Yes
+2023-02-08,11-11148-83674,Dress,2,4,Next Day Air,Yes,Yes
+2023-02-08,19-11135-99492-resend,Dress,3,3.2,Express,Yes,Yes
+2023-02-08,3197392685,Shirt,4,4.3,2-Day Shipping,Yes,Yes
+2023-02-08,3197442843,Dress,3,2.5,Store Pickup,Yes,Yes
+2023-02-08,3206226328,Shirt,3,4.9,Express,Yes,Yes
+2023-02-09,25-11145-63491,Blouse,5,2.7,2-Day Shipping,Yes,Yes
+2023-02-09,22-11138-45645,Blouse,1,3.4,Standard,Yes,Yes
+2023-02-09,07-11152-79017,Blouse,4,4.8,Store Pickup,Yes,Yes
+2023-02-09,08-11159-41840,Blouse,4,4.7,Next Day Air,Yes,Yes
+2023-02-09,12-11156-73158,Blouse,5,4.7,Express,Yes,Yes
+2023-02-09,21-11139-90212,Blouse,5,3.9,Standard,Yes,Yes
+2023-02-09,10-11159-62306,Dress,5,3.7,Express,Yes,Yes
+2023-02-09,13-11153-83399,Blouse,3,4.3,Store Pickup,Yes,Yes
+2023-02-09,14-11145-32363,Blouse,3,4.1,2-Day Shipping,Yes,Yes
+2023-02-11,3198539713,Shirt,3,4.6,Express,Yes,Yes
+2023-02-11,3207694784,Dress,5,3.6,2-Day Shipping,Yes,Yes
+2023-02-11,3207382758,Dress,3,4.8,Free Shipping,Yes,Yes
+2023-02-11,3199127167,Dress,4,2.8,2-Day Shipping,Yes,Yes
+2023-02-11,3200354911,Shirt,5,4.7,Express,Yes,Yes
+2023-02-11,3201082727,Dress,2,3.9,Standard,Yes,Yes
+2023-02-11,3207384598,Dress,5,2.6,Store Pickup,Yes,Yes
+2023-02-11,3198594987,Dress,5,4.7,Next Day Air,Yes,Yes
+2023-02-11,3201281917,Dress,1,3.5,Store Pickup,Yes,Yes
+2023-02-11,3198906093,Dress,5,4.4,Standard,Yes,Yes
+2023-02-11,3198558921,Shirt,4,4.4,2-Day Shipping,Yes,Yes
+2023-02-11,3208645954,Shirt,2,3,Express,Yes,Yes
+2023-02-11,3207587006,Dress,3,4.2,Standard,Yes,Yes
+2023-02-11,3199087547,Shirt,2,4.3,Next Day Air,Yes,Yes
+2023-02-11,3207285910,Dress,4,2.6,Store Pickup,Yes,Yes
+2023-02-11,3201033745,Dress,3,3.3,Store Pickup,Yes,Yes
+2023-02-11,3201052563,Shirt,3,2.7,Next Day Air,Yes,Yes
+2023-02-11,3200859207,Dress,5,4.2,Express,Yes,Yes
+2023-02-11,3198913719,Dress,3,4,Standard,Yes,Yes
+2023-02-11,3197010405,Shirt,3,4,Free Shipping,Yes,Yes
+2023-02-11,3199667517,Dress,5,2.9,2-Day Shipping,Yes,Yes
+2023-02-11,3210092244,Dress,2,2.6,Express,Yes,Yes
+2023-02-11,3201042765,Dress,2,4.8,Express,Yes,Yes
+2023-02-11,3207470708,Dress,1,4.4,Standard,Yes,Yes
+2023-02-11,3209025544,Dress,2,4,2-Day Shipping,Yes,Yes
+2023-02-11,3208247064,Dress,1,3.6,2-Day Shipping,Yes,Yes
+2023-02-11,576584015118897880,Skirt,1,3.2,Next Day Air,Yes,Yes
+2023-02-12,cuong236,Skirt,5,3.1,2-Day Shipping,Yes,Yes
+2023-02-13,HMF-3211421718,Skirt,5,4.2,Express,Yes,Yes
+2023-02-13,16-11164-73161,Blouse,3,3,2-Day Shipping,Yes,Yes
+2023-02-13,23-11159-29956,Blouse,4,4.2,Standard,Yes,Yes
+2023-02-15,3211140934,Shirt,5,2.9,Next Day Air,Yes,Yes
+2023-02-15,25-11170-48742,Blouse,2,3.7,Store Pickup,Yes,Yes
+2023-02-15,06-11183-16504,Blouse,5,3.6,Free Shipping,Yes,Yes
+2023-02-15,3207164048,Shirt,2,3.6,Standard,Yes,Yes
+2023-02-15,3204748173,Shirt,3,4.5,2-Day Shipping,Yes,Yes
+2023-02-15,02-11186-94751,Blouse,3,3.2,Express,Yes,Yes
+2023-02-15,3204758966,Skirt,3,3.9,Next Day Air,Yes,Yes
+2023-02-15,3195850703,Skirt,4,4.6,Store Pickup,Yes,Yes
+2023-02-15,3202700287,Shirt,2,2.5,Express,Yes,Yes
+2023-02-15,14-11156-87326,Blouse,5,4.3,Express,Yes,Yes
+2023-02-15,3212796502,Shirt,1,4.1,Store Pickup,Yes,Yes
+2023-02-15,3214400288,Shirt,1,4.6,Free Shipping,Yes,Yes
+2023-02-15,3200489079,Shirt,4,4.8,Standard,Yes,Yes
+2023-02-15,3204889151,Shirt,5,4.9,Express,Yes,Yes
+2023-02-15,21-11170-91769,Blouse,1,2.8,Free Shipping,Yes,Yes
+2023-02-15,3195760403,Skirt,2,4.9,Standard,Yes,Yes
+2023-02-15,19-11173-76892,Blouse,5,3.5,Free Shipping,Yes,Yes
+2023-02-15,3207263494,Shirt,2,3.8,Express,Yes,Yes
+2023-02-15,12-11155-67066,Blouse,5,4.5,2-Day Shipping,Yes,Yes
+2023-02-15,04-11184-76659,Blouse,2,3.4,Express,Yes,Yes
+2023-02-15,3211737644,Shirt,3,3.9,Standard,Yes,Yes
+2023-02-15,3200054781,Shirt,3,4.1,2-Day Shipping,Yes,Yes
+2023-02-15,3204944405,Shirt,2,3,Express,Yes,Yes
+2023-02-15,3202739255,Shirt,2,3.3,Next Day Air,Yes,Yes
+2023-02-15,3210564122,Shirt,4,4.9,Free Shipping,Yes,Yes
+2023-02-15,18-11177-98456,Blouse,3,4.3,Next Day Air,Yes,Yes
+2023-02-16,3204488055,Dress,3,4.1,Free Shipping,Yes,Yes
+2023-02-16,3203232513,Dress,1,4,2-Day Shipping,Yes,Yes
+2023-02-16,3202665275,Dress,5,5,2-Day Shipping,Yes,Yes
+2023-02-16,3210361294,Dress,2,3.1,2-Day Shipping,Yes,Yes
+2023-02-16,3204242673,Dress,5,4,2-Day Shipping,Yes,Yes
+2023-02-16,3212753878,Dress,2,3.2,2-Day Shipping,Yes,Yes
+2023-02-16,3214072378,Dress,5,3.9,Standard,Yes,Yes
+2023-02-16,576585839022740067,Skirt,4,3.9,2-Day Shipping,Yes,Yes
+2023-02-16,3203298799,Dress,2,4.5,Free Shipping,Yes,Yes
+2023-02-16,3205081203,Dress,3,4.4,Store Pickup,Yes,Yes
+2023-02-16,3203898001,Dress,1,3.1,2-Day Shipping,Yes,Yes
+2023-02-16,3205963161,Shirt,3,2.9,Standard,Yes,Yes
+2023-02-16,3205915513,Shirt,2,3.7,Free Shipping,Yes,Yes
+2023-02-16,3202703611,Dress,2,3.2,2-Day Shipping,Yes,Yes
+2023-02-16,cuong281,Skirt,3,3.5,Standard,Yes,Yes
+2023-02-16,3210780718,Dress,3,3,Free Shipping,Yes,Yes
+2023-02-16,3203894967,Dress,4,4.1,Next Day Air,Yes,Yes
+2023-02-16,3210924548,Dress,4,2.9,2-Day Shipping,Yes,Yes
+2023-02-16,3213825534,Dress,3,3.8,Next Day Air,Yes,Yes
+2023-02-16,3212156430,Dress,2,4.1,Next Day Air,Yes,Yes
+2023-02-16,3204571657,Dress,2,4.6,Store Pickup,Yes,Yes
+2023-02-16,3203025911,Dress,1,2.5,Free Shipping,Yes,Yes
+2023-02-16,3203915227,Dress,2,3.7,Express,Yes,Yes
+2023-02-16,3210327528,Dress,4,3.8,Free Shipping,Yes,Yes
+2023-02-16,3205454731,Dress,1,2.6,2-Day Shipping,Yes,Yes
+2023-02-16,3213929294,Dress,2,3.7,Free Shipping,Yes,Yes
+2023-02-17,27-11123-24262,Blouse,3,2.6,Free Shipping,Yes,Yes
+2023-02-17,14-11183-06832,Blouse,2,3.1,Store Pickup,Yes,Yes
+2023-02-17,NearlyLit - 3207326068,Skirt,1,2.5,Next Day Air,Yes,Yes
+2023-02-17,3205650809A,Skirt,3,4.9,Express,Yes,Yes
+2023-02-18,HMF-3207785771,Skirt,4,4.5,Standard,Yes,Yes
+2023-02-19,3217449020,Shirt,5,3.4,Store Pickup,Yes,Yes
+2023-02-19,11-11193-87967,Blouse,3,3.9,Free Shipping,Yes,Yes
+2023-02-19,3215012432,Dress,2,3.7,Store Pickup,Yes,Yes
+2023-02-19,3207219323,Shirt,1,2.6,Free Shipping,Yes,Yes
+2023-02-19,3214697530,Dress,3,3.4,Store Pickup,Yes,Yes
+2023-02-19,3209023717,Shirt,3,4.9,Store Pickup,Yes,Yes
+2023-02-19,3216610098,Shirt,2,3.9,Express,Yes,Yes
+2023-02-19,3216743678,Dress,2,3.6,Express,Yes,Yes
+2023-02-19,HMF-3208654961,Skirt,1,4.6,Standard,Yes,Yes
+2023-02-19,3216160836,Dress,1,4,2-Day Shipping,Yes,Yes
+2023-02-19,3207150907,Dress,3,3.6,Free Shipping,Yes,Yes
+2023-02-19,3207843283,Shirt,4,3.5,Next Day Air,Yes,Yes
+2023-02-19,3208451097,Shirt,5,4.1,Store Pickup,Yes,Yes
+2023-02-19,576586780310343840,Skirt,4,3,Store Pickup,Yes,Yes
+2023-02-19,3207212407,Shirt,3,4.4,Store Pickup,Yes,Yes
+2023-02-19,NearlyLit - 3208414705,Skirt,5,4.4,2-Day Shipping,Yes,Yes
+2023-02-19,3206601917,Dress,2,3.7,Express,Yes,Yes
+2023-02-19,3218005658,Dress,5,4.8,Standard,Yes,Yes
+2023-02-19,3215106556,Dress,3,2.9,Store Pickup,Yes,Yes
+2023-02-19,3206294117,Dress,3,3.1,Express,Yes,Yes
+2023-02-19,19-11190-49599,Blouse,1,4,Next Day Air,Yes,Yes
+2023-02-19,3215065036,Dress,3,3,Store Pickup,Yes,Yes
+2023-02-20,3218453132,Skirt,1,3.9,2-Day Shipping,Yes,Yes
+2023-02-20,3218832130,Shirt,1,3.4,Standard,Yes,Yes
+2023-02-20,3210110769,Dress,4,2.7,Standard,Yes,Yes
+2023-02-20,111-7401448-1221864,Skirt,4,3.5,Express,Yes,Yes
+2023-02-20,3210108745,Dress,2,3,Free Shipping,Yes,Yes
+2023-02-20,16-11200-69837,Dress,2,4.5,Express,Yes,Yes
+2023-02-20,3216449188,Skirt,2,4.1,Free Shipping,Yes,Yes
+2023-02-21,3219794546,Shirt,5,5,Next Day Air,Yes,Yes
+2023-02-21,3217051052,Skirt,3,4,Standard,Yes,Yes
+2023-02-21,3219878540,Shirt,4,4.9,Express,Yes,Yes
+2023-02-22,3198318185-RESEND,Shirt,3,3.3,2-Day Shipping,Yes,Yes
+2023-02-22,3207281049,Skirt,1,4.1,Standard,Yes,Yes
+2023-02-22,3211750039,Dress,5,3.6,Express,Yes,Yes
+2023-02-22,3211777443,Dress,1,3,Free Shipping,Yes,Yes
+2023-02-22,3208110987,Skirt,3,4.1,2-Day Shipping,Yes,Yes
+2023-02-23,3213181645,Shirt,3,3.9,Standard,Yes,Yes
+2023-02-23,3221476842,Shirt,2,4.1,Store Pickup,Yes,Yes
+2023-02-23,04-11206-34120,Dress,4,2.8,Next Day Air,Yes,Yes
+2023-02-23,3212379245,Dress,2,4.8,Store Pickup,Yes,Yes
+2023-02-23,3221175896,Shirt,3,4.6,2-Day Shipping,Yes,Yes
+2023-02-23,3220633012,Skirt,4,2.5,Next Day Air,Yes,Yes
+2023-02-23,3212988967,Skirt,2,2.7,Next Day Air,Yes,Yes
+2023-02-24,3221726420,Dress,5,4,Standard,Yes,Yes
+2023-02-24,3222535546,Dress,3,2.7,Standard,Yes,Yes
+2023-02-24,3222345058,Shirt,3,2.9,Next Day Air,Yes,Yes
+2023-02-24,3213388633,Shirt,1,3,Standard,Yes,Yes
+2023-02-24,3213740345,Dress,2,3.3,Standard,Yes,Yes
+2023-02-24,3213986539,Shirt,3,4.3,Store Pickup,Yes,Yes
+2023-02-24,3214016337,Dress,2,4.4,Express,Yes,Yes
+2023-02-26,576590093556356083,Skirt,1,4.1,Next Day Air,Yes,Yes
+2023-02-26,3214546921,Dress,2,3.1,2-Day Shipping,Yes,Yes
+2023-02-26,3212858479,Skirt,4,4.5,Standard,Yes,Yes
+2023-02-26,3222739670,Skirt,2,4.8,Next Day Air,Yes,Yes
+2023-02-26,16-11226-29067,Blouse,4,5,Express,Yes,Yes
+2023-02-26,3224757166,Shirt,3,2.8,Next Day Air,Yes,Yes
+2023-02-26,3223520860,Shirt,3,3.7,Express,Yes,Yes
+2023-02-26,3224765666,Shirt,2,4.4,2-Day Shipping,Yes,Yes
+2023-02-26,3214258279,Shirt,3,4.5,Store Pickup,Yes,Yes
+2023-02-27,3220633012 bổ sung,Skirt,1,3,Free Shipping,Yes,Yes
+2023-02-27,96 Mike  Totten,Skirt,1,3.9,2-Day Shipping,Yes,Yes
+2023-02-27,3214995295,Skirt,1,3.9,Express,Yes,Yes
+2023-02-27,3213882197,Skirt,1,3.5,Next Day Air,Yes,Yes
+2023-02-27,01-11242-29239,Blouse,5,4.9,Next Day Air,Yes,Yes
+2023-02-28,15-11238-21259,Blouse,3,3.4,Standard,Yes,Yes
+2023-02-28,3226265162,Shirt,2,4.1,Standard,Yes,Yes
+2023-02-28,24-11243-27795,Blouse,1,2.9,Next Day Air,Yes,Yes
+2023-02-28,3217757021,Shirt,3,3.4,Free Shipping,Yes,Yes
+2023-02-28,3218593041,Shirt,5,3.2,2-Day Shipping,Yes,Yes
+2023-02-28,25-11237-24313,Blouse,5,3.9,Free Shipping,Yes,Yes
+2023-02-28,3227971152,Shirt,2,4.1,Standard,Yes,Yes
+2023-03-01,11-11249-42676,Dress,2,4.5,Standard,Yes,Yes
+2023-03-01,3227758242,Shirt,2,2.8,Standard,Yes,Yes
+2023-03-01,3219011035,Shirt,2,2.8,Express,Yes,Yes
+2023-03-01,3212988967A,Skirt,5,4.6,Standard,Yes,Yes
+2023-03-01,576592954874761392,Skirt,1,3,Free Shipping,Yes,Yes
+2023-03-01,23-11247-25159,Skirt,1,3.6,2-Day Shipping,Yes,Yes
+2023-03-03,3222505283,Shirt,5,4.5,Next Day Air,Yes,Yes
+2023-03-04,20-11255-60482,Dress,2,5,Express,Yes,Yes
+2023-03-04,3223800663,Shirt,5,2.9,Next Day Air,Yes,Yes
+2023-03-04,3230619352,Shirt,3,3.1,Next Day Air,Yes,Yes
+2023-03-04,3222745917,Skirt,2,4,2-Day Shipping,Yes,Yes
+2023-03-04,3221227743,Skirt,3,4.5,Express,Yes,Yes
+2023-03-04,25-11241-79648 (18-11263-02084),Skirt,3,4.5,Next Day Air,Yes,Yes
+2023-03-04,3224948387,Skirt,5,3.1,Express,Yes,Yes
+2023-03-05,24-11270-30565,Dress,2,4.4,Next Day Air,Yes,Yes
+2023-03-05,17-11249-67462,Dress,1,4.7,Store Pickup,Yes,Yes
+2023-03-05,HMF-3225756043,Skirt,1,3.1,Store Pickup,Yes,Yes
+2023-03-05,3233473252,Skirt,4,4.2,Express,Yes,Yes
+2023-03-05,3225635629,Shirt,5,3,Store Pickup,Yes,Yes
+2023-03-06,26-11259-69348,Dress,2,2.6,Free Shipping,Yes,Yes
+2023-03-06,3227151341,Shirt,5,3.4,Free Shipping,Yes,Yes
+2023-03-06,3234409550,Shirt,5,4.2,2-Day Shipping,Yes,Yes
+2023-03-07,3233333312,Shirt,1,4.6,Standard,Yes,Yes
+2023-03-07,3227142607,Shirt,3,2.8,Free Shipping,Yes,Yes
+2023-03-07,3234698492,Shirt,2,2.7,Express,Yes,Yes
+2023-03-07,3227199369,Shirt,3,4,Standard,Yes,Yes
+2023-03-07,3234380268,Shirt,1,3.1,Free Shipping,Yes,Yes
+2023-03-07,3227225133,Shirt,5,3.7,Express,Yes,Yes
+2023-03-07,3227592483,Shirt,3,4,Next Day Air,Yes,Yes
+2023-03-07,3234884684,Skirt,5,4.6,Standard,Yes,Yes
+2023-03-07,3234285602,Shirt,2,3.8,Free Shipping,Yes,Yes
+2023-03-07,3227152557,Shirt,5,3.5,Express,Yes,Yes
+2023-03-07,HMF-3226197769,Skirt,5,4.6,Free Shipping,Yes,Yes
+2023-03-07,3227259519,Skirt,1,2.8,Standard,Yes,Yes
+2023-03-07,17-11270-25235,Blouse,2,3.7,Standard,Yes,Yes
+2023-03-07,3228322049,Shirt,4,3.3,Express,Yes,Yes
+2023-03-08,3233557430,Shirt,4,2.9,Standard,Yes,Yes
+2023-03-08,3228297923,Shirt,1,3.2,Standard,Yes,Yes
+2023-03-08,3228081169,Shirt,2,4.3,Store Pickup,Yes,Yes
+2023-03-08,3235164906,Shirt,1,2.7,Next Day Air,Yes,Yes
+2023-03-08,3228658221,Shirt,1,4.2,Store Pickup,Yes,Yes
+2023-03-08,3228307515,Shirt,1,4.8,2-Day Shipping,Yes,Yes
+2023-03-08,12-11279-59523,Blouse,2,4.8,Store Pickup,Yes,Yes
+2023-03-08,3236662576,Shirt,4,3.4,Express,Yes,Yes
+2023-03-08,3236676070,Shirt,4,2.6,Standard,Yes,Yes
+2023-03-09,3229070487,Shirt,1,5,Next Day Air,Yes,Yes
+2023-03-09,3229626371,Shirt,2,4.4,Next Day Air,Yes,Yes
+2023-03-09,3236648124,Shirt,3,2.9,Standard,Yes,Yes
+2023-03-09,3230247009,Dress,2,3.4,2-Day Shipping,Yes,Yes
+2023-03-09,3237480162,Shirt,3,3.4,Standard,Yes,Yes
+2023-03-11,3230122341,Shirt,2,4.9,Next Day Air,Yes,Yes
+2023-03-11,14-11285-34350,Skirt,2,3.6,Standard,Yes,Yes
+2023-03-11,3231403227,Shirt,5,3,Free Shipping,Yes,Yes
+2023-03-11,3235160508,Skirt,2,3.9,2-Day Shipping,Yes,Yes
+2023-03-11,3237755376,Shirt,4,3.2,Standard,Yes,Yes
+2023-03-11,3237528630,Shirt,3,3.2,Next Day Air,Yes,Yes
+2023-03-11,3237717252,Shirt,1,4.3,Next Day Air,Yes,Yes
+2023-03-11,576596490999599515,Skirt,4,2.8,2-Day Shipping,Yes,Yes
+2023-03-11,3237481240,Shirt,3,4.5,Next Day Air,Yes,Yes
+2023-03-11,3237199582,Shirt,1,4.1,Next Day Air,Yes,Yes
+2023-03-11,3236907690,Shirt,1,3.6,2-Day Shipping,Yes,Yes
+2023-03-11,3239727626,Shirt,4,3,2-Day Shipping,Yes,Yes
+2023-03-11,3232430171,Shirt,1,4,Free Shipping,Yes,Yes
+2023-03-12,3239227760,Shirt,5,3.5,Next Day Air,Yes,Yes
+2023-03-12,3232082607,Shirt,3,2.5,Store Pickup,Yes,Yes
+2023-03-12,3232422861,Shirt,4,4.3,Store Pickup,Yes,Yes
+2023-03-12,3232472243,Skirt,1,2.8,Express,Yes,Yes
+2023-03-12,3232281323,Shirt,1,3.7,Next Day Air,Yes,Yes
+2023-03-12,3237624952,Skirt,3,4.3,Express,Yes,Yes
+2023-03-12,3238660690,Skirt,5,4,Express,Yes,Yes
+2023-03-13,3240725602,Shirt,1,4.7,Express,Yes,Yes
+2023-03-13,3237896510,Skirt,5,4.5,Store Pickup,Yes,Yes
+2023-03-13,3232377385,Shirt,1,3.1,Free Shipping,Yes,Yes
+2023-03-13,3233346105,Shirt,5,3.8,Express,Yes,Yes
+2023-03-13,225 Mike G,Skirt,1,4.9,Express,Yes,Yes
+2023-03-13,3234751307,Shirt,5,3.2,Standard,Yes,Yes
+2023-03-14,3241177858,Shirt,3,2.9,2-Day Shipping,Yes,Yes
+2023-03-14,22-11295-57384,Dress,4,2.8,Store Pickup,Yes,Yes
+2023-03-14,3227152557-resend,Shirt,5,4,2-Day Shipping,Yes,Yes
+2023-03-15,3233940543A,Skirt,1,2.6,Store Pickup,Yes,Yes
+2023-03-15,3242400710,Shirt,1,2.7,Free Shipping,Yes,Yes
+2023-03-15,3235700185,Shirt,1,4.1,2-Day Shipping,Yes,Yes
+2023-03-15,3236000863,Skirt,2,5,Free Shipping,Yes,Yes
+2023-03-15,3241616344,Shirt,4,3,Next Day Air,Yes,Yes
+2023-03-15,07-11318-80406,Dress,2,3.6,Free Shipping,Yes,Yes
+2023-03-15,HMF-3243411164,Skirt,3,2.8,2-Day Shipping,Yes,Yes
+2023-03-16,HMF-3236395515,Skirt,5,4.6,Standard,Yes,Yes
+2023-03-16,3244226948,Shirt,4,2.9,Standard,Yes,Yes
+2023-03-16,16-11312-32712,Dress,5,4.8,Express,Yes,Yes
+2023-03-18,3244607028,Shirt,3,3.3,Express,Yes,Yes
+2023-03-18,3245417628,Shirt,1,4.6,Standard,Yes,Yes
+2023-03-18,3236999333,Shirt,1,2.6,Store Pickup,Yes,Yes
+2023-03-18,3238152149,Shirt,2,4,Next Day Air,Yes,Yes
+2023-03-18,3246395466,Shirt,3,3.8,Standard,Yes,Yes
+2023-03-19,3246193602,Shirt,1,3.9,Express,Yes,Yes
+2023-03-19,3245658542,Shirt,4,2.6,Store Pickup,Yes,Yes
+2023-03-19,3240008153,Shirt,1,4.3,Standard,Yes,Yes
+2023-03-19,3239987529,Shirt,5,3.6,Express,Yes,Yes
+2023-03-19,19-11321-04270,Dress,1,4.2,Express,Yes,Yes
+2023-03-19,HMF-3240012893,Skirt,1,3.9,Express,Yes,Yes
+2023-03-19,3240443917,Dress,1,4.7,Next Day Air,Yes,Yes
+2023-03-19,20-11325-13237,Dress,3,2.8,Next Day Air,Yes,Yes
+2023-03-20,24-11316-27562,Blouse,3,3,Next Day Air,Yes,Yes
+2023-03-20,3236638809,Skirt,2,4.7,Store Pickup,Yes,Yes
+2023-03-20,3236886625,Skirt,1,2.5,Free Shipping,Yes,Yes
+2023-03-20,3240447313,Dress,4,3.1,Store Pickup,Yes,Yes
+2023-03-20,3246090732,Dress,4,3.6,Next Day Air,Yes,Yes
+2023-03-20,3236716845,Skirt,2,3.5,2-Day Shipping,Yes,Yes
+2023-03-20,3240219313,Dress,1,3.1,Express,Yes,Yes
+2023-03-20,22-11323-20124,Dress,2,3.6,Store Pickup,Yes,Yes
+2023-03-20,3248038198,Shirt,5,3.5,Next Day Air,Yes,Yes
+2023-03-21,11-11339-12853,Dress,1,2.7,Store Pickup,Yes,Yes
+2023-03-21,3247815782,Shirt,3,3.6,Express,Yes,Yes
+2023-03-21,3241386967,Shirt,5,4.5,Express,Yes,Yes
+2023-03-21,14-11335-66182,Dress,5,4.1,Free Shipping,Yes,Yes
+2023-03-21,3249214138,Shirt,1,4.2,Standard,Yes,Yes
+2023-03-21,3242454969,Shirt,2,4,Store Pickup,Yes,Yes
+2023-03-22,3248627668,Shirt,2,2.8,Store Pickup,Yes,Yes
+2023-03-22,06-11350-74707,Dress,4,2.6,2-Day Shipping,Yes,Yes
+2023-03-22,3249535388,Shirt,1,2.7,Store Pickup,Yes,Yes
+2023-03-23,3249943208,Shirt,2,4.5,Store Pickup,Yes,Yes
+2023-03-23,HMF-3244065225,Skirt,2,3.7,Free Shipping,Yes,Yes
+2023-03-23,3244427769,Shirt,5,3.4,Free Shipping,Yes,Yes
+2023-03-23,3250116490,Shirt,4,4.6,Standard,Yes,Yes
+2023-03-25,3246682849,Shirt,2,4.1,2-Day Shipping,Yes,Yes
+2023-03-25,25-11348-72709,Dress,5,2.6,Free Shipping,Yes,Yes
+2023-03-26,01-11365-04213,Dress,5,4.6,Store Pickup,Yes,Yes
+2023-03-26,3248049803,Shirt,4,3,Standard,Yes,Yes
+2023-03-27,PP3246820445,Skirt,5,3.4,Free Shipping,Yes,Yes
+2023-03-27,3249211907,Shirt,1,3.5,Free Shipping,Yes,Yes
+2023-03-27,3247702477,Shirt,4,3.5,Standard,Yes,Yes
+2023-03-28,3249420723,Shirt,1,3.7,Next Day Air,Yes,Yes
+2023-03-28,3249972499,Shirt,2,4.8,Free Shipping,Yes,Yes
+2023-03-29,3255444754,Shirt,3,4.9,Store Pickup,Yes,Yes
+2023-03-29,576607830617723899,Dress,4,4.9,Express,Yes,Yes
+2023-03-29,3249173311,Shirt,1,4.7,Standard,Yes,Yes
+2023-03-29,3255378208,Shirt,3,4.9,Free Shipping,Yes,Yes
+2023-03-29,3250074103,Shirt,5,2.9,Express,Yes,Yes
+2023-03-29,3255341372,Shirt,1,4.4,Express,Yes,Yes
+2023-03-29,HMF-3250532057,Skirt,1,3.2,Next Day Air,Yes,Yes
+2023-03-29,HMF-3257243406,Skirt,3,4.6,Free Shipping,Yes,Yes
+2023-03-30,22-11375-48122,Dress,3,4,Standard,Yes,Yes
+2023-03-31,3256354018,Shirt,1,3.7,Free Shipping,Yes,Yes
+2023-04-01,3252835459,Shirt,1,4.2,Free Shipping,Yes,Yes
+2023-04-01,27-11364-73479,Dress,1,2.9,Standard,Yes,Yes
+2023-04-01,3256153650,Shirt,3,4.8,Next Day Air,Yes,Yes
+2023-04-01,3256605542,Shirt,3,4.4,Standard,Yes,Yes
+2023-04-01,18-11371-94358,Dress,1,3.4,Free Shipping,Yes,Yes
+2023-04-01,3251938807,Shirt,5,2.8,2-Day Shipping,Yes,Yes
+2023-04-01,3256468198,Shirt,4,4.2,Next Day Air,Yes,Yes
+2023-04-01,3252426245,Shirt,4,3.8,Express,Yes,Yes
+2023-04-01,HMF-3253048675,Skirt,4,3.1,2-Day Shipping,Yes,Yes
+2023-04-02,HMF-RESEND,Skirt,2,3.2,Express,Yes,Yes
+2023-04-02,HMF-3251656061,Skirt,3,3,Next Day Air,Yes,Yes
+2023-04-02,3251989517,Shirt,5,3.6,Free Shipping,Yes,Yes
+2023-04-02,3258579452,Shirt,3,2.5,Store Pickup,Yes,Yes
+2023-04-03,3256562728,Shirt,3,3.4,Free Shipping,Yes,Yes
+2023-04-03,3259574374,Shirt,5,2.5,Next Day Air,Yes,Yes
+2023-04-03,3254054305,Shirt,1,4.7,2-Day Shipping,Yes,Yes
+2023-04-03,3256972336,Shirt,1,3.2,2-Day Shipping,Yes,Yes
+2023-04-03,3258417708,Shirt,4,2.9,Free Shipping,Yes,Yes
+2023-04-03,3257935908,Shirt,2,4.9,Express,Yes,Yes
+2023-04-03,3253791023,Shirt,4,2.7,Store Pickup,Yes,Yes
+2023-04-03,3252814199,Shirt,1,4.7,Express,Yes,Yes
+2023-04-03,3258527738,Dress,2,2.9,2-Day Shipping,Yes,Yes
+2023-04-03,3259166228,Shirt,3,4.8,Express,Yes,Yes
+2023-04-03,4034872255,Shirt,2,4.6,Standard,Yes,Yes
+2023-04-03,3258396880,Shirt,3,5,2-Day Shipping,Yes,Yes
+2023-04-03,3228297923-resend,Shirt,3,4.8,2-Day Shipping,Yes,Yes
+2023-04-03,3255725385,Shirt,2,4.9,Store Pickup,Yes,Yes
+2023-04-03,3261120396,Shirt,3,4.6,2-Day Shipping,Yes,Yes
+2023-04-04,3260536002,Shirt,2,3.9,Store Pickup,Yes,Yes
+2023-04-04,3261112474,Shirt,1,4.5,Store Pickup,Yes,Yes
+2023-04-04,3255442923,Shirt,4,4.7,Store Pickup,Yes,Yes
+2023-04-04,3255814909,Shirt,2,3.9,Express,Yes,Yes
+2023-04-04,3260534900,Shirt,1,4.4,Standard,Yes,Yes
+2023-04-04,3259443702,Shirt,3,3.9,Next Day Air,Yes,Yes
+2023-04-04,3256121883,Shirt,4,2.8,2-Day Shipping,Yes,Yes
+2023-04-04,3255852163,Shirt,2,3.5,Store Pickup,Yes,Yes
+2023-04-05,19-11396-98190,Dress,2,4.3,Express,Yes,Yes
+2023-04-05,3261151480 (1),Skirt,1,3.9,Next Day Air,Yes,Yes
+2023-04-06,3257340075,Shirt,5,4,Express,Yes,Yes
+2023-04-06,3261780282,Shirt,2,4.1,Next Day Air,Yes,Yes
+2023-04-07,3261995640,Shirt,5,4.3,Standard,Yes,Yes
+2023-04-07,3256298831,Shirt,5,4.2,Free Shipping,Yes,Yes
+2023-04-07,3256917097,Shirt,4,4,Standard,Yes,Yes
+2023-04-07,3257979363,Shirt,4,3.6,Express,Yes,Yes
+2023-04-07,3257697033,Shirt,3,3.3,Standard,Yes,Yes
+2023-04-07,3256554163,Shirt,3,4.1,2-Day Shipping,Yes,Yes
+2023-04-07,3256195191,Shirt,5,4.7,Next Day Air,Yes,Yes
+2023-04-07,3257489551,Shirt,2,4.4,Store Pickup,Yes,Yes
+2023-04-07,3261340516,Shirt,5,3.4,Standard,Yes,Yes
+2023-04-07,3257983551,Shirt,2,5,Free Shipping,Yes,Yes
+2023-04-07,3262941690,Shirt,3,4.6,Store Pickup,Yes,Yes
+2023-04-07,3261489922,Shirt,4,4,Standard,Yes,Yes
+2023-04-07,3262425406,Shirt,4,4.1,Next Day Air,Yes,Yes
+2023-04-07,3261675040,Shirt,5,4.9,Express,Yes,Yes
+2023-04-07,3261161106,Shirt,4,2.7,Free Shipping,Yes,Yes
+2023-04-07,3257886141,Shirt,1,4.5,Free Shipping,Yes,Yes
+2023-04-07,3262571720,Shirt,5,2.7,Standard,Yes,Yes
+2023-04-07,3263818322,Shirt,4,3,Next Day Air,Yes,Yes
+2023-04-07,3262502404,Shirt,3,4.5,Next Day Air,Yes,Yes
+2023-04-08,3257110233,Skirt,1,5,Standard,Yes,Yes
+2023-04-08,3259436375,Shirt,2,3.8,2-Day Shipping,Yes,Yes
+2023-04-08,3257835477,Shirt,5,3.1,Standard,Yes,Yes
+2023-04-08,3258534573,Shirt,4,3.4,Free Shipping,Yes,Yes
+2023-04-08,3258013311,Shirt,4,4.8,Next Day Air,Yes,Yes
+2023-04-08,3256857147,Shirt,2,2.7,Standard,Yes,Yes
+2023-04-08,3263960656,Shirt,5,3.2,Store Pickup,Yes,Yes
+2023-04-08,3263895874,Shirt,3,3.9,2-Day Shipping,Yes,Yes
+2023-04-08,3260598097,Shirt,1,4.2,Next Day Air,Yes,Yes
+2023-04-08,3259676537,Shirt,3,3,Express,Yes,Yes
+2023-04-09,3260591733,Shirt,1,3,2-Day Shipping,Yes,Yes
+2023-04-09,3264924092,Shirt,5,3.7,2-Day Shipping,Yes,Yes
+2023-04-09,3259377007,Shirt,4,4.4,Store Pickup,Yes,Yes
+2023-04-09,3259555467,Shirt,4,4.6,Free Shipping,Yes,Yes
+2023-04-09,3258503967,Shirt,3,3,Free Shipping,Yes,Yes
+2023-04-09,3263970050,Shirt,5,3.6,Express,Yes,Yes
+2023-04-09,3264887434,Shirt,4,3.9,Standard,Yes,Yes
+2023-04-09,3258875031,Shirt,3,4.1,Free Shipping,Yes,Yes
+2023-04-09,3260626905,Shirt,4,3.9,2-Day Shipping,Yes,Yes
+2023-04-09,3259653949,Shirt,3,3.9,2-Day Shipping,Yes,Yes
+2023-04-09,3259062725,Shirt,2,4.5,Express,Yes,Yes
+2023-04-09,3260473065,Shirt,5,3.4,Standard,Yes,Yes
+2023-04-09,3259970213,Shirt,2,4.1,Next Day Air,Yes,Yes
+2023-04-09,3260938869,Shirt,2,4.9,Next Day Air,Yes,Yes
+2023-04-09,3258510429,Shirt,1,4.4,2-Day Shipping,Yes,Yes
+2023-04-09,3260801371,Shirt,4,2.7,2-Day Shipping,Yes,Yes
+2023-04-09,3260073939,Shirt,5,4.8,Free Shipping,Yes,Yes
+2023-04-09,3263339870,Shirt,1,3.3,2-Day Shipping,Yes,Yes
+2023-04-09,3258514007,Shirt,1,4.4,Free Shipping,Yes,Yes
+2023-04-09,3259272221,Shirt,4,4.6,2-Day Shipping,Yes,Yes
+2023-04-09,3259641655,Shirt,2,3.1,Next Day Air,Yes,Yes
+2023-04-09,3263752806,Shirt,4,4.5,2-Day Shipping,Yes,Yes
+2023-04-09,3260976941,Shirt,1,4,Store Pickup,Yes,Yes
+2023-04-09,3260738897,Shirt,5,3.1,Free Shipping,Yes,Yes
+2023-04-09,3265315508,Shirt,2,3.9,Next Day Air,Yes,Yes
+2023-04-09,3265903900,Shirt,4,4.5,Next Day Air,Yes,Yes
+2023-04-09,3259634775,Shirt,4,4.4,Next Day Air,Yes,Yes
+2023-04-09,3264208522,Shirt,1,3.6,2-Day Shipping,Yes,Yes
+2023-04-09,3260500913,Shirt,1,3.4,Free Shipping,Yes,Yes
+2023-04-09,3264483128,Shirt,3,4,2-Day Shipping,Yes,Yes
+2023-04-09,01-11416-83996,Skirt,3,2.6,Store Pickup,Yes,Yes
+2023-04-09,3264952296,Shirt,3,3.2,Next Day Air,Yes,Yes
+2023-04-09,3264236288,Shirt,1,3.2,Standard,Yes,Yes
+2023-04-09,3260910877,Shirt,2,5,2-Day Shipping,Yes,Yes
+2023-04-09,3265403116,Shirt,4,2.9,Next Day Air,Yes,Yes
+2023-04-09,3265731170,Shirt,3,2.9,Store Pickup,Yes,Yes
+2023-04-09,10-11399-48779,Skirt,4,3.5,Next Day Air,Yes,Yes
+2023-04-09,3260100029,Shirt,5,4,Standard,Yes,Yes
+2023-04-09,3264357346,Shirt,2,3.9,Standard,Yes,Yes
+2023-04-09,3263393856,Shirt,1,4.9,Store Pickup,Yes,Yes
+2023-04-09,3263953490,Shirt,3,3.8,Express,Yes,Yes
+2023-04-09,3265308252,Shirt,2,3.5,Standard,Yes,Yes
+2023-04-09,3259119223,Shirt,1,3.7,Store Pickup,Yes,Yes
+2023-04-09,3259776091,Shirt,3,2.9,2-Day Shipping,Yes,Yes
+2023-04-09,3259758321,Shirt,1,2.8,Free Shipping,Yes,Yes
+2023-04-09,3261157079,Shirt,1,3.7,2-Day Shipping,Yes,Yes
+2023-04-09,3265906636,Shirt,1,3,Express,Yes,Yes
+2023-04-09,3261114475,Shirt,2,4.8,Free Shipping,Yes,Yes
+2023-04-09,3260131227,Shirt,5,2.7,Standard,Yes,Yes
+2023-04-09,3263500950,Shirt,1,4.5,Free Shipping,Yes,Yes
+2023-04-09,3258345781,Shirt,4,2.7,Standard,Yes,Yes
+2023-04-09,3260831679,Shirt,4,3.5,Next Day Air,Yes,Yes
+2023-04-09,3261200387,Shirt,5,3.5,Express,Yes,Yes
+2023-04-09,3259453571,Shirt,1,4.5,Store Pickup,Yes,Yes
+2023-04-09,3258370557,Shirt,5,3.8,Free Shipping,Yes,Yes
+2023-04-09,3257809669,Skirt,3,3.8,Standard,Yes,Yes
+2023-04-09,3264895230,Shirt,5,3.2,Next Day Air,Yes,Yes
+2023-04-09,3260049009,Shirt,4,4.3,Next Day Air,Yes,Yes
+2023-04-09,3264175096,Shirt,2,4.5,Next Day Air,Yes,Yes
+2023-04-09,3259639347,Shirt,1,4.2,Free Shipping,Yes,Yes
+2023-04-09,3260541791,Shirt,4,3,Free Shipping,Yes,Yes
+2023-04-09,3258736405,Shirt,3,4.1,Standard,Yes,Yes
+2023-04-09,3263970476,Shirt,3,4.6,Store Pickup,Yes,Yes
+2023-04-09,3259154157,Shirt,3,2.9,Standard,Yes,Yes
+2023-04-09,3258384739,Shirt,3,4.8,Next Day Air,Yes,Yes
+2023-04-09,3265736568,Shirt,3,4.5,Next Day Air,Yes,Yes
+2023-04-09,3264808012,Shirt,3,3.4,2-Day Shipping,Yes,Yes
+2023-04-09,3264959382,Shirt,4,4.3,2-Day Shipping,Yes,Yes
+2023-04-09,3259279963,Shirt,4,4.2,Free Shipping,Yes,Yes
+2023-04-09,3260147801,Shirt,4,3.6,Next Day Air,Yes,Yes
+2023-04-09,3258818873,Shirt,3,3.7,2-Day Shipping,Yes,Yes
+2023-04-09,3258892043,Shirt,3,4,Standard,Yes,Yes
+2023-04-09,3259755931,Shirt,4,4.9,2-Day Shipping,Yes,Yes
+2023-04-09,3265743656,Shirt,3,3.1,Free Shipping,Yes,Yes
+2023-04-09,3265806474,Shirt,4,3.7,Standard,Yes,Yes
+2023-04-09,3259734317,Shirt,5,4.2,Free Shipping,Yes,Yes
+2023-04-09,3264518778,Shirt,3,2.5,Next Day Air,Yes,Yes
+2023-04-09,3261545001,Dress,1,4.3,Next Day Air,Yes,Yes
+2023-04-09,3262413432,Skirt,1,3.1,Store Pickup,Yes,Yes
+2023-04-10,3260022025,Skirt,3,3,Next Day Air,Yes,Yes
+2023-04-10,576613678239551922,Skirt,4,4,Express,Yes,Yes
+2023-04-10,HMF - 3261911865,Skirt,5,3.5,Free Shipping,Yes,Yes
+2023-04-10,3261407767,Shirt,2,3.2,Next Day Air,Yes,Yes
+2023-04-10,3262690931,Dress,1,2.7,Store Pickup,Yes,Yes
+2023-04-10,3266270560,Dress,1,3,Free Shipping,Yes,Yes
+2023-04-11,HMF-3266770898REORDER,Skirt,2,2.9,Next Day Air,Yes,Yes
+2023-04-11,3267540760,Dress,2,3.3,Free Shipping,Yes,Yes
+2023-04-11,3266154724,Dress,2,4.9,2-Day Shipping,Yes,Yes
+2023-04-11,3266609998,Dress,2,3.7,Store Pickup,Yes,Yes
+2023-04-11,3262451919,Dress,3,3.5,Standard,Yes,Yes
+2023-04-11,3262360233,Dress,3,4.7,Store Pickup,Yes,Yes
+2023-04-11,3249211907-resend,Shirt,4,2.6,Store Pickup,Yes,Yes
+2023-04-11,3263584159,Shirt,3,4.1,Express,Yes,Yes
+2023-04-11,3267548516,Dress,4,2.8,2-Day Shipping,Yes,Yes
+2023-04-12,3268191042,Dress,1,4.7,Next Day Air,Yes,Yes
+2023-04-12,3263508029,Dress,4,2.9,Store Pickup,Yes,Yes
+2023-04-12,3266269938,Skirt,1,2.8,Free Shipping,Yes,Yes
+2023-04-12,3255378208-resend,Shirt,3,4.3,Next Day Air,Yes,Yes
+2023-04-12,3265024947,Dress,1,4.8,2-Day Shipping,Yes,Yes
+2023-04-12,3269672296,Dress,4,3.4,Next Day Air,Yes,Yes
+2023-04-15,3265732369,Dress,2,4.3,Standard,Yes,Yes
+2023-04-15,3265545353,Dress,2,2.7,Free Shipping,Yes,Yes
+2023-04-15,3265405953,Dress,3,4.6,Next Day Air,Yes,Yes
+2023-04-15,3270482860,Dress,4,4.1,Standard,Yes,Yes
+2023-04-15,3265764061,Dress,3,3.4,2-Day Shipping,Yes,Yes
+2023-04-15,3264860533,Dress,5,4.5,Next Day Air,Yes,Yes
+2023-04-15,3270210366,Dress,2,4.4,Standard,Yes,Yes
+2023-04-15,3266049975,Dress,1,4,Next Day Air,Yes,Yes
+2023-04-15,3268908392,Dress,3,3.4,Free Shipping,Yes,Yes
+2023-04-15,3269946088,Dress,1,3.2,Standard,Yes,Yes
+2023-04-15,3266571235,Shirt,5,3.4,Standard,Yes,Yes
+2023-04-15,3267305795,Shirt,4,4.3,Standard,Yes,Yes
+2023-04-16,3271592390,Skirt,1,5,Standard,Yes,Yes
+2023-04-16,25-11429-41559,Dress,4,3.5,Store Pickup,Yes,Yes
+2023-04-16,3271943884,Shirt,5,3.1,2-Day Shipping,Yes,Yes
+2023-04-17,3269461562,Shirt,4,3.9,2-Day Shipping,Yes,Yes
+2023-04-17,HMF-3275289304,Skirt,3,4,Store Pickup,Yes,Yes
+2023-04-17,3269036823,Shirt,1,3.5,Next Day Air,Yes,Yes
+2023-04-19,3270408425,Shirt,1,3.6,Free Shipping,Yes,Yes
+2023-04-19,3272432814,Skirt,5,3,Next Day Air,Yes,Yes
+2023-04-19,3265770329,Skirt,3,2.6,Next Day Air,Yes,Yes
+2023-04-20,10-11399-48778-1,Skirt,2,2.9,Next Day Air,Yes,Yes
+2023-04-20,3270923418,Skirt,5,3.1,Next Day Air,Yes,Yes
+2023-04-20,3266224917,Skirt,5,3.3,Next Day Air,Yes,Yes
+2023-04-20,02-11476-23467,Dress,2,2.9,Store Pickup,Yes,Yes
+2023-04-20,3274224196,Shirt,1,3.9,2-Day Shipping,Yes,Yes
+2023-04-22,3272112931,Shirt,5,4.7,2-Day Shipping,Yes,Yes
+2023-04-22,3274887749,Shirt,3,4.4,2-Day Shipping,Yes,Yes
+2023-04-22,HMF-3274564635,Skirt,3,3.6,Store Pickup,Yes,Yes
+2023-04-23,3281271532,Shirt,1,3.2,Standard,Yes,Yes
+2023-04-24,3280543388,Shirt,4,4,Free Shipping,Yes,Yes
+2023-04-25,3276312703,Shirt,4,3.5,Next Day Air,Yes,Yes
+2023-04-25,HMF-3282528482,Skirt,4,4.6,Free Shipping,Yes,Yes
+2023-04-25,3278286911,Shirt,3,3.3,Free Shipping,Yes,Yes
+2023-04-26,FR-1,Skirt,5,4,2-Day Shipping,Yes,Yes
+2023-04-26,3278807795,Dress,1,3.4,Free Shipping,Yes,Yes
+2023-04-27,3280884615,Shirt,3,4.2,Store Pickup,Yes,Yes
+2023-04-29,3285720833,Skirt,5,3.9,2-Day Shipping,Yes,Yes
+2023-05-01,3289992816,Skirt,1,3.9,Next Day Air,Yes,Yes
+2023-05-03,3285292775,Skirt,5,2.8,Standard,Yes,Yes
+2023-05-03,3285367937,Skirt,3,3.7,Standard,Yes,Yes
+2023-05-03,3285886407,Skirt,2,4.9,Store Pickup,Yes,Yes
+2023-05-03,3289858834,Skirt,3,2.6,Express,Yes,Yes
+2023-05-03,3290467632,Skirt,1,4.9,Free Shipping,Yes,Yes
+2023-05-03,3290531674,Skirt,1,3.4,Next Day Air,Yes,Yes
+2023-05-03,3227371416,Skirt,2,3.9,Standard,Yes,Yes
+2023-05-03,3227482912,Skirt,2,4,Next Day Air,Yes,Yes
